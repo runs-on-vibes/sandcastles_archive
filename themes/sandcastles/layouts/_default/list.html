@@ -2,7 +2,12 @@
 <div class="post-list-container">
     {{ if .IsHome }}
     <div style="margin-bottom: 40px;">
-        <p>This is a searchable archive of all posts from the <a href="https://sandcastlesblog.substack.com">Sandcastles blog</a>. All essays are preserved in their entirety with proper formatting and attribution.</p>
+        <p>This is a searchable archive of all posts from the <a href="https://sandcastlesblog.substack.com">Sandcastles blog</a>. I created this because <strong>Substack's search is terrible</strong> - it's nearly impossible to find old posts there. This archive makes every essay discoverable through Google and preserves them in their entirety with proper formatting.</p>
+
+        <!-- Search box -->
+        <div class="search-box" style="margin-top: 20px;">
+            <div id="search"></div>
+        </div>
     </div>
     {{ end }}
 
