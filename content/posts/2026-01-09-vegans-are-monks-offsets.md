@@ -1,35 +1,347 @@
 ---
-title: "Vegans Are Monks. We Need a Role for Laypeople."
+title: "Vegans Are Monks, and Other Analogies to Environmental Activism"
 date: 2026-01-09
 draft: false
 ---
 
-The article proposes that the animal advocacy movement should adopt a two-tiered structure modeled after religious institutions, where vegans function as a "priestly class" while non-vegans participate as supporters through donations and other low-commitment actions.
+In this post:
 
-## The Veganism Plateau Problem
+With meat consumption skyrocketing and rates of veganism stagnant, strategies focused on individual veganism appear to offer only limited potential for animal advocates.
 
-The author notes that despite three decades of vegan advocacy, veganism has stagnated at 1-4% globally. Meanwhile, meat consumption continues rising. This suggests that "individual veganism appears to offer only limited potential" for achieving animal liberation at scale.
+The small fraction who are vegan act as a symbolic vanguard, living out our vision for a world without animal exploitation. They also serve as the movement’s crucial activist base.
 
-## The Priesthood Model
+We must find a way to expand the movement beyond the small vegan population without alienating our most dedicated supporters.
 
-Drawing parallels to Catholic and Buddhist traditions, the author argues that monks inspire admiration rather than resentment because laypeople support them without being expected to adopt identical lifestyles. He states: "monks and laypeople exhibit a symbiotic relationship" where "the general public...takes comfort in the spiritual example set by the monks."
+The solution is to treat vegans as a priestly class, an elite cadre making a deep personal commitment to live out transformational values on behalf of a wider community, and deserving the utmost respect.
 
-## Offsets as Entry Points
+To achieve this, we must let go of the idea that veganism is for everyone. We must offer a low-commitment way for animal lovers to align themselves with the vegan movement.
 
-The author champions Farmkind's "offset" concept—where non-vegans donate to animal charities instead of changing diets. This approach offers:
-- Scalable commitment matching personal conviction levels
-- Real measurable impact for animals
-- Historical precedent in alms-giving traditions
+Farmkind’s “offset” framing is the most general solution yet proposed, and it matches a rich historical precedent: the relationship between priestly/monastic elites and the lay communities that support them.
 
-## The Money Question
 
-The author argues that donations from wealthy non-vegans (like Facebook co-founder Dustin Moskovitz) can generate more animal welfare improvements than expecting universal veganism. He contends: "money can transform...almost anything anyone values."
+## 1. Won’t somebody think of the vegans?!
 
-## Critical Points
 
-1. Grassroots veganism remains valuable despite slow growth rates
-2. Advocates shouldn't disparage vegans while recruiting omnivores
-3. The movement risks alienating its activist base through anti-vegan messaging
-4. Financial support should be celebrated, not viewed with moral suspicion
+[Narrator voice] Previously on Sandcastles, we saw how Farmkind’s campaign telling people to forget veganism and donate to effective animal charities instead set off a firestorm of constructive debate among animal activists.
 
-The article ultimately advocates for respecting committed vegans while building a broader coalition of "offsetters" who support animal advocacy financially without dietary change.
+Today I’m going to dig into what I suspect are the deepest questions dividing responses to the campaign.
+
+Veganism presents an unsolved puzzle for the animal movement:
+
+In three decades of vegan advocacy, rates of veganism have grown only very slowly, plateauing around 1-4% in all but a couple countries.
+
+Meanwhile, total and per capita meat consumption have increased sharply across rich and poor countries alike.
+
+With a few notable exceptions, only vegans are willing to dedicate their careers or free time into campaigning for farmed animals.
+
+We have a movement of vegans. Even incremental welfare campaigns could be accurately described as part of the vegan movement, given how many of the people working on those campaigns are vegan.
+
+With the frustratingly slow rate at which veganism has spread, many of us would like to expand our movement beyond vegans. If we only welcome vegans to advocate for animals, we are limiting ourselves to a tiny fraction of society. You could say, well, everyone can go vegan, so we’re not excluding anyone, but that just brings us back to square one: everyone could go vegan, but they aren’t, and we aren’t succeeding in convincing them.
+
+Attempts to welcome nonvegans into the movement have been mixed. On the one hand, there are some real success stories. Communities Against Factory Farms is right now organizing hundreds of rural UK citizens to object to new factory farm developments on the basis of harm to local communities, environments, and yes, animal cruelty. In England in the 1990s and Australia in the 2010s, thousands of omnivores joined dramatic direct action campaigns against live export, motivated purely by animal cruelty.
+
+Elsewhere, however, the strength of vegan identity has served to repel nonvegans from advocacy. In my early years with Direct Action Everywhere, we tried to avoid talking about individual diet change and instead focused on “systems change” and “total animal liberation.” But when omnivores occasionally found their way to our events, they felt profoundly out of place, and didn’t come back. This pattern held more recently during a citywide campaign to ban slaughterhouses with Pro-Animal Future: people could have cared about local pollution, worker abuses, or a slew of other issues, but in practice it was only vegans who got involved.
+
+Vegans joined in part because it was so exciting to be surrounded by other vegans. When the occasional stray omnivore wandered into one of our events, it was only a matter of time before another volunteer would casually ask them how long they’d been vegan. Awkwardness ensued, and the omnivore never came back. This was despite daily reminders to our activists that this campaign wasn’t about veganism. Nobody was being deliberately exclusionary– it was just the natural next question they wanted to ask.
+
+Vegans join activist groups in part because it is so gratifying to be around people who share your conviction that what the world is doing to animals is unacceptable. It’s the experience of finally finding your people. Every highly dedicated activist I know shares this experience. Sharing in the strict commitment of veganism is probably essential to the cohesion of the movement’s activist core.
+
+Yet that same strict cohesion alienates us from the rest of society. Surveys find that while people are sympathetic to farmed animals, they regard vegans with a disdain reserved for drug addicts, cockroaches, and worst of all, Congress. Efforts to expand our base seem almost inevitably to run up against that cohesion, as the Farmkind controversy shows.
+
+
+## 2. Ascending to the priesthood
+
+
+I confess, reader: I have been deeply skeptical of veganism as a vehicle for animal liberation. I have at times even wished that we could get rid of veganism altogether. For a period, some DxE friends and I started half-ironically identifying as “post-vegan,” which entailed thinking of all the ways our lifestyle fell short of pure veganism, and emphasizing those to try to bring us closer to the omnivorous masses. One of these friends, Paul Picklesimer, testified during a criminal trial for open rescue that he isn’t vegan because he enjoys watching Game of Thrones, and the actors ride horses onscreen. The exasperated prosecutor went point by point confirming that Paul doesn’t eat meat or dairy or wear leather or wool. The exchange was hilarious to DxE’s activists, but I’m not sure it gained him much credibility with the jury.
+
+Paul and I even used to fantasize about holding an annual event at the Berkeley Animal Rights Center where DxE’s leadership would all choke down a big mac live on Facebook. On the one hand, this story is meant to show just how much we wanted to break the animal rights movement out of its fetish for personal purity. On the other hand, we could never actually bring ourselves to do it.
+
+Despite vegans’ insistence to the contrary, the omnivorous public sees veganism as a major personal sacrifice.
+
+But why does that perception of sacrifice lead to an adversarial dynamic? After all, there are plenty of cultures where a small minority takes on an extreme personal commitment and, rather than being rejected as antisocial fundamentalists, are embraced as an elite cadre living out the full ideals of the community.
+
+The clearest example is priests and monks. In both Catholic and Buddhist countries, while a majority of the population might actively practice the religion, there is a special role for those who are called to truly dedicate their lives to it. Priests and monks in both traditions take vows of celibacy and live cloistered, rigidly structured lives that can make military discipline seem mild by comparison.
+
+Far from inspiring resentment or mistrust, the piety of religious mendicants is celebrated by the wider community, who donate alms in exchange for a fraction of the ineffable spiritual merit that the monks accumulate through their diligent practice.
+
+Most people say they love animals, at least in Western countries. Surveys consistently find they are horrified by the common practices of factory farming. When I had a chance to dig deeper by interviewing meat eaters in my research at Pax Fauna, I found that common feelings about animal slaughter were even more tormented that these surveys let on; the ordinary meat eaters I spoke to said it required deliberate effort for them to avoid thinking about where meat comes from.
+
+Vegans are simply living out these values to their natural conclusion, the way that monks and nuns live out Catholic and Buddhist teachings that everyone in their community subscribes to in principle. So why do vegans provoke ire where monastics inspire admiration?
+
+I think the difference is obvious: monks and laypeople exhibit a symbiotic relationship. A small priestly elite leans on the financial support of a wider lay community. Nobody expects the laypeople will all someday don the robes, but they take comfort in the spiritual example set by the monks.
+
+This stands in stark contrast to veganism, in which the general public (rightly) feels that our goal is to get them to adopt the same personal commitment we have taken, and that we see them as moral lepers so long as they fail to do so.
+
+People hate vegans because our mere existence puts them on the defensive. This is not altogether fair; while vegans sometimes (rightly) advocate for the correctness of our position, just as often, the omnivores shoot first, then crack jokes about pushy vegans. We can gripe about this injustice, or we can think about how to respond to it strategically.
+
+
+## 3. What did y’all think expanding the movement beyond veganism meant? Vibes? Blog posts?
+
+
+Expanding our strategy beyond veganism does not mean giving up the goal of a vegan world. In a vegan world, nobody would be vegan. The term would be meaningless if the choice to eat tortured animals wasn’t available or default. The question is how we get there.
+
+My research at Pax Fauna convinced me that veganism will not be the vehicle that delivers us to animal liberation. For one, it asks too much sacrifice of individuals who care a little bit, but not that much. People know that the main sacrifice is social rather than culinary; they’re less worried about what they would eat and more about how inconvenient it would be to have limited options when eating out with friends, how their friends and family would tease them, and how it would complicate family dinners at the holidays. Sure enough, these are the explanations most commonly offered by recidivist vegans.
+
+In other words, veganism is only a sacrifice if you do it alone. If the whole world went vegan, being vegan would be easy, as our study participants often pointed out– but until then, there’s not much we can do to make it less socially costly. Many of them expressed vague support for the idea of a vegan world, and even said they’d be willing to take small actions to bring that world about– but veganism was too much to ask.
+
+After two years of research involving hundreds of hours of interviews and focus groups, this was the biggest question we left unanswered, to my great frustration: what small, meaningful steps can we offer people to align their actions with the animal movement, short of going vegan?
+
+One option is reducetarianism. In theory, as Brian Kateman has pointed out, getting one person to reduce their consumption from 5 animals a week to 1 spares twice as many animals as getting a person who eats 2 animals a week to go vegan. But while I wish the best for efforts promoting reducetarianism, I’m doubtful behavior changes framed in these terms actually stick. The surveys I’ve reviewed suggest that people’s actual meat consumption, and changes therein, have little to do with whether they self-identify as intending to reduce meat, for reasons to do with psychological laziness. People don’t track the amount of meat they eat throughout the week, making it all too easy to convince yourself you’ve made a bigger reduction than you have.
+
+A second option is to engage people as voters. This excites me much more, and indeed, this was the strategy I opted for– Pax Fauna’s research directly led us to launch Pro-Animal Future. PAF’s citizen initiatives ask voters to think about what kind of world they want to create collectively, rather than asking individuals to make a big sacrifice alone. In our first campaign, 36% of voters in Denver, Colorado, USA voted to ban slaughterhouses in the city. We fell short of the 50% needed to pass, but that’s dramatically more than the perhaps 3-5% of Denverites who are vegan.
+
+I’m excited to see the movement double down on reaching the public as voters. However, voting only happens one day a year. How can we engage people the other 364 days? Not to mention in jurisdictions that don’t allow for direct ballot initiatives.
+
+Farmkind has put forward the best solution I’ve seen yet: offset the impact of your meat consumption with a donation to the movement.
+
+Consider some of the strengths of offsetting as an incremental step towards joining the animal movement:
+
+It scales to match a person’s commitment level. Veganism is seen by proponents and opponents alike as all-or-nothing, and reducetarianism is often a mirage. An offset is concrete, but it can be as large or small as the donor’s passion for the cause, and can grow alongside same.
+
+It makes a real difference for animals. Just as enough people going vegan ripples up the supply chain to cause farmers to breed fewer animals, enough people donating enables new effective campaigns– not just for welfare reforms, but for institutional diet change programs that have proven far more effective at reducing animal consumption. (Farmkind redirects donations to both welfare and institutional diet change efforts.)
+
+It mirrors the historical precedent. Alms and tithes are precisely the ways the Buddhist and Catholic laity have supported their monks– admiring their discipline from a safe distance.
+
+
+### 3.1 A foot in the door
+
+
+In the research literature on persuasion, a small step like offsetting is known as a foot in the door. Humans exhibit a bias towards consistency, meaning that one thing we consider when deciding how to act is consistency with our past actions. That means that if you can convince someone to take a small action consistent with your philosophy now, it’ll be easier to convince them to take bigger actions later.
+
+One of the main concerns raised by critics of Farmkind’s Forget Veganuary campaign is that if we tell people to donate instead of going vegan, they’ll become complacent, feeling that their donation absolves them of guilt for eating meat. My strong intuition from years of sociological research is that this will not happen. If anything, I expect the opposite: people who align their actions with us in small ways like donating will be far more likely to drift towards our mindset over time.
+
+But will it lead them all the way to veganism? To be honest, I doubt it. I think it’s more likely that promoting offsets will have no impact on rates of veganism, mainly because practically nothing has, at least not in a durable way. Giving alms doesn’t lead most people to become monks– but neither does it discourage them from becoming monks. Some people will become monks, and most won’t.
+
+
+## 4. Disparage not those holy few!
+
+
+Depending on your mood when reading the data, the growth of veganism has been slow or altogether stagnant. But this does not mean that veganism and the vegan movement have not played a crucial role in advancing animal advocacy.
+
+Virtually the entire farmed animal advocacy movement is composed of vegans. For most people, even very altruistic people, dedicating your life to farmed animals while eating farmed animals is simply too much of a contradiction; sooner or later, people stop doing one or the other.
+
+While we can’t know for sure, I shudder to think of how much worse a position farmed animal advocacy might be in if there were no movement for veganism. Perhaps animal consumption would have increased even faster. Worse, perhaps there would be no cadre of fanatics obsessed with winning change for animals at any cost. Perhaps the closest thing to farmed animal advocates would be the nonvegan EAs in our timeline, who might pay lip service to factory farming as an important cause but would prefer to see even fewer resources directed towards it, and who wouldn’t think twice about serving factory-farmed meat at their conferences because fretting about that would be too low-impact to be worth their time.
+
+It might just be my contrarian streak. But despite my own long history of questioning veganism and fretting about the ways it alienates us from the mainstream, I can’t shake the feeling lately that the movement has overcorrected. I don’t object to Forget Veganuary, which was a calculated decision to land media coverage in right-wing outlets. But I wince when I see strategists regard veganism with something approaching disdain even among allies.
+
+Take this line from Lewis Bollard in his very friendly appearance on the Dwarkesh podcast:
+
+It seems so obvious that you can have far larger-scale change at the level of governmental change and corporate change. Instead, we get fixated about whether someone is completely vegan or vegetarian. I think what happened is that when people started learning about this issue initially, it was just a few people and they felt totally powerless to achieve larger-scale change. They understandably focused on themselves.
+
+Then it started to become a self-fulfilling prophecy. It started to become an end in itself, where it was about personal purity as much as about the impact you’re having on the issue. It’s much easier to measure your own personal purity than it is to measure your total impact on reforming factory farming. It just became this kind of inward focus. The good news is, that has changed tremendously in the last decade. The movement has gone from being one that was obsessed with personal purity, obsessed with dietary choices, to one that is much more obsessed with impact.
+
+On one hand, I basically agree with everything Lewis said. And yet… I can’t help but read this as throwing shade at vegans and vegan advocates for being “obsessed with personal purity.” Now, Lewis has received more than his fair share of shade from abolitionist activists, so it would be fully his prerogative to respond in kind, but I’m fairly certain that wasn’t his intention, especially given his own words in defense of Veganuary last week:
+
+I think we should have a very high bar for attacking well-meaning people doing good in the world, whether vegans, EAs, organ donors, aid workers, or longtermists.
+
+Lewis’ intent on Dwarkesh was clearly to invite nonvegan listeners into the animal movement. But in a more subtle way than Farmkind, he’s demonstrated the zeitgeist in the movement that takes for granted how the price of admitting nonvegans is belittling veganism.
+
+And I’m not even saying that assumption is wrong– at least, not in the present. At Pax Fauna, I was reminded daily of just how far we have to bend over backwards to avoid triggering defensive reactions from nonvegans. My experience exactly matches what Thom Norman from Farmkind said in defense of his campaign:
+
+When we start talking about factory farming, the script in people’s minds is that “you’ve started talking about this, now you’re going to ask me to change my diet.” And so they’ve already stopped listening to us. We used to get comments about “I’m not going to go vegan, I love bacon too much” on videos where we weren’t talking about veganism at all. There’s a lot of people out there where to reach them, we have to make it explicitly clear that we’re not asking them to go vegan. If we had said you could do both, people wouldn’t have heard what we were saying.
+
+Still, I can’t help but think that past social movements probably haven’t gotten very far by dunking on their most committed followers. Describing vegans as obsessed with personal purity comes across as mean– even if it’s true. And it is true! Even I am guilty of standing in Japanese grocery stores trying to research whether some trace ingredient written in obscure kanji is animal-derived, even though I know every minute spent on things like this is a waste of time and energy that would be far better spent working on any form of animal advocacy.
+
+The classic argument in favor of this kind of purity is that it puts you in a strong moral position to argue from. But it’s not at all obvious that arguing from this moral high ground makes us more persuasive. On the contrary, most evidence finds people react negatively to vegan messengers, and lower their guard when they learn that the advocate they are speaking with is a fellow meat-eater.
+
+But while being vegan probably doesn’t make you more persuasive to nonvegans, that doesn’t mean the value of a vegan to the movement can be reduced to the number of animals they would have otherwise consumed. I’m sympathetic to the feeling that something more is lost. Virtually every activist I know remembers their transition to veganism as a pivotal point in their life, a transformation that rippled across their entire identity and led directly to where they are now.
+
+The utilitarian logic Lewis appealed to when talking to Dwarkesh—focusing on your “total impact on reforming factory farming” rather than your own habits—probably doesn’t resonate with the average person.1 Utilitarianism is an esoteric moral philosophy, probably less frequent among the general population than veganism!
+
+The vast majority of people make their decisions according to a vague virtue-ethical framework– that is, focusing on themselves and on what actions would make them a “good person” or otherwise be consistent with their image of themselves. These folk ethics undergird the relationship between priests and laypeople: the common folk want a shortcut to be aligned with the good, to participate in righteousness with minimum personal sacrifice. This is the logic that will make offset campaigns most compelling: not “this is more effective than veganism” but “this is the easy way for you to get on the right side of history.”
+
+
+### 4.1 Grassroots veganism is the only aspect of our “movement” that presently warrants the term
+
+
+Folk ethics explain why veganism has spread as far as it has. After all, while we wish it was more widespread, 3% of the population of a country being vegan is extraordinary! Most would-be cultural trends never come anywhere close to that level of popularity, especially trends as costly to participants as veganism.
+
+Most formal vegan advocacy strategies have a near-zero effect on the population-level rate of veganism. Yet that rate has stayed steady or slowly increased, seemingly all on its own.
+
+This shows the power of an informal, genuinely grassroots movement for veganism spreading through internet forums and the friend networks of ordinary people. This stands in stark contrast to the formally organized industry sometimes known as the “farmed animal advocacy movement,” which has at this point become an astroturfed phenomenon that would collapse tomorrow in the absence of philanthropic funding. Anecdotally, the vast majority of animal activists I know attribute their veganism to online message boards or random friends rather than formal vegan advocacy efforts. If any philanthropically-backed activity played a role in their journey, it was a documentary like Cowspiracy or Dominion, not a vegan leaflet, street outreacher, or social media ad.
+
+This organic quality of veganism strikes me as incredibly precious. It’s only in the last fifteen years or so that substantial philanthropic resources have poured into farmed animal advocacy, and it’s still only a tiny fraction of what goes towards dogs and cats. If the money dried up, corporate welfare and institutional menu campaigns would mostly disappear– but the vegan movement, including grassroots vegan advocacy groups like Anonymous for the Voiceless, would churn along.
+
+When I see things like the Forget Veganuary campaign, I don’t worry about the feelings of grassroots vegan activists. First of all, these people are anything but thin-skinned; they face daily abuse far beyond what Farmkind could ever throw at them. But more importantly, this movement isn’t about their feelings, as they’ll be the first to point out.
+
+But I do worry about alienating the true rank-and-file of our movement, the millions of vegans who have no connection to any organization. I worry how the principled vegetarians among Dwarkesh’s audience, blissfully ignorant of the diet change debate raging among professional animal advocates, will feel hearing a leader of the movement brush off their precious pro-animal identity as inept and puritanical. I worry, I admit, that pulling too hard on the wrong thread could cause this beautiful organic movement to unravel.
+
+Questioning the strictness of veganism might be that thread. Research by Laurence Iannaccone, building on Dean Kelley, argues that strict commitment is a causal feature of strongly-bound communities. When a group demands distinctive dress, dietary restrictions, or behavioral sacrifices, it filters out “free riders,” leaving only true believers. The remaining members, knowing everyone around them has paid the price of admission, participate more enthusiastically. The costs make the group more valuable to those who remain.
+
+The parallel to veganism is striking. Iannaccone’s research quantitatively demonstrates that members of stricter religious denominations attend more services, contribute more money, form closer ties with fellow members, and report stronger identification with their faith– but have fewer ties outside the group.
+
+This is precisely the tradeoff animal advocates face: veganism creates an intensely committed core, but that same commitment creates barriers to expanding the movement’s reach. The question for animal advocates isn’t whether to abandon strictness, but how to maintain a committed core while building bridges to a broader constituency. The solution is the monastic/layperson dichotomy modelled by religious traditions, where strict personal commitment is celebrated in a few rather than demanded of—or disparaged by—everyone.
+
+
+## 5. Gandhi and guerillas
+
+
+This two-tiered solution for social movement membership found one of its strongest advocates in Mahatma Gandhi. Gandhi’s struggle was geopolitical in scale, stirring the world’s most populous country to cast off the yoke of its most powerful empire. Yet at the core of this movement, Gandhi situated an elite cadre that never made up much more than 1% of Indian society.
+
+Like any good priestly class, Gandhi’s most devoted followers were set aside by dress, diet, and personal purity. One staple of the movement was khadi, traditional hand-spun Indian textiles. Khadi clothing was both a clear visual marker of movement identity and an active economic protest, forsaking mass-produced British imports in favor of more expensive indigenous produce.
+
+Boycotting British industry was one of the costly swadeshi vows taken by Gandhi’s most devoted followers. Other vows included:
+
+withdrawing from all British Raj institutions (including enrolling in government schools and forsaking government employment, often the highest-paid work available)
+
+vegetarianism (!) and sobriety
+
+Spending time daily hand-spinning khadi thread on a charkha
+
+Portrait of Gandhiji spinning thread
+
+So, were these strict adherents of swadeshi ostracized by the Indian populace? Of course not! Rather, they functioned as a respected vanguard, supported by the patronage and admiration of the masses as they traveled from village to village promoting the nationalist cause.
+
+Gandhi’s followers blurred the line between a priesthood and a guerilla movement– and the latter is also a useful metaphor for veganism. In his classic study of guerilla strategy, The War of the Flea,2 Robert Taber explains how guerilla revolutions that started out numbering in the dozens have been able to defeat full-scale regular militaries: by way of a small, highly dedicated cadre surviving off the patronage of a sympathetic rural population into which they can dissolve and reappear at will.
+
+As with monks, the goal of an insurgency is never to recruit the entire population into active armed struggle. Instead, a small guerilla force takes on the lion’s share of personal sacrifice and risk. Living in caves or tunnels and armed with only improvised weapons, they wage hit-and-run warfare on high-tech militaries– while the general population discretely provides food, fuel, and misdirection.
+
+If we accept this metaphor, the key lesson is the close relationship between the guerillas and the general public. Counterinsurgency efforts fail most spectacularly, Taber shows, when the occupying force treats the guerillas as the main problem rather than merely the most dramatic expression of widespread popular discontent. At the same time, the guerilla’s primary aim is to sharpen and encourage that discontent; “to raise the level of revolutionary anticipation, and then of popular participation, to the crisis point at which the revolution becomes general throughout the country and the people in their masses carry out the final task: the destruction of the existing order.”
+
+The success of the guerilla hinges on the support of the general population. If the guerillas legitimately reflect the popular will, their victory is an eventuality. If not, it is practically unattainable.
+
+As things currently stand, a movement framed in terms of veganism is being rejected by the masses like an alien virus. There is no question that we must reinvent ourselves. The question is whether veganism fits in the reinvented version of the animal movement at all, and what role the ordinary, passive supporter can play.
+
+
+## 6. Show me the evidence
+
+
+There are some empirically testable assumptions in all this. Let’s give them a critical examination:
+
+Hypothesis 1: Ordinary meat eaters see donating to animal charities as a more incremental ask than going vegan– and there are a meaningful number of nonvegans that would be willing to donate.
+
+Hypothesis 2: Positively mentioning diet change makes people less likely to donate, necessitating anti-vegan messaging.
+
+Hypothesis 3: A message that explicitly presents donating as a substitute for diet change does not make people less likely to go vegan.
+
+Hypothesis 4: Veganism is stagnating, and is unattainable for all but a small fraction of the public.
+
+A brand new study shed some light on the first three questions: a survey experiment from Rethink Priorities comparing public attitudes towards donating and diet change.3 Individual studies like this should provide only modest updates in our beliefs, but if they are designed carefully, they’re usually better than pure intuition!
+
+The Rethink survey finds, in line with common sense, that most people see donating as a significantly easier action than going vegan– and respondents who had never done either before were significantly more open to donating. This supports H1: there is a substantial audience who aren’t close to going vegan but would be willing to offset.
+
+H2, however, is contraindicated by the Rethink survey. Comparing one message that only described donating as a powerful way to oppose factory farming to a second one that explicitly set it apart from “going plant-based,” respondents who saw the first message vs. the second scored it more compelling. The effect was statistically significant, but very slight. However, it’s at least enough to say that in this survey, a message contrasting donations with diet change was not more effective.
+
+This evidence is much weaker. First, in messaging studies like this that test only one version of each message, it’s impossible to know if the effect was due to the variable you care about, or due to some other variation in the message. Perhaps a different version of the anti-vegan message would have performed better. Indeed, the message tested by Rethink Priorities was much milder in its critique of veganism than the Forget Veganuary campaign.
+
+Moreover, this kind of survey only measures one part of the equation determining the impact of a message. In one of my favorite recent articles, Ben Tappin explains how the simple formula for message impact is persuasiveness multiplied by reach. That is, if message A is half as persuasive as message B, but goes viral and is seen by 100 times as many people, it has a 50 times greater impact. Ben points out that the persuasiveness of different messages tend to vary only modestly, but their reach varies dramatically, making viral spread far more important than message persuasiveness.
+
+In a survey experiment like this one, the audience is captive, and sees the message they’ve been assigned to read no matter what. In the real world, the hardest part is getting messages in front of people. So if an antivegan message spreads more virally, Farmkind could still justify H2.
+
+All that said, this is still some weak evidence against H2, and in favor of presenting veganism and donating as harmonious actions by members of the same movement acting at different levels of commitment. I’d love to see Farmkind directly test their anti-vegan message against something that fits the tone I’m arguing for in this post, measuring both persuasiveness and virality.
+
+Furthermore, some observers feel H3 renders H2 irrelevant: if the spicy messaging dissuades people from going vegan, it might not be worth it. The Rethink survey might be even less helpful here, because the message contrasting donations and diet change was so much gentler than Farmkind’s real-world message. (Read both messages in this footnote.4) But for what it’s worth, the comparison message had no negative effect on people’s attitudes towards going plant-based.
+
+
+### 6.1 Veganism SITREP
+
+
+Now for H4: how is veganism going, really? Among EA-aligned and most other professional farmed animal charities, the futility of diet change efforts is mostly taken for granted. The common story is that veganism is hovering somewhere between 1 and 4 percent, has not meaningfully increased in recent decades, and provokes defensiveness and resentment.
+
+Bryant Research released a report this week commissioned by The Vegan Society, examining public attitudes towards veganism in 21 countries. The report isn’t shy about looking for bright spots in global vegan trends, but the findings on rates are sobering.
+
+With the sole exception of India (where religious history and widespread poverty complicate interpretation5), no country exceeded 5% veganism.6 Most countries were closer to 2%, including the USA, UK, Australia, and Germany. This doesn’t leave much room for the possibility that the trend in these countries is positive. Instead, it supports the conclusion that vegan attrition is so high, every new vegan merely replaces one who just relapsed.
+
+On sentiment, however, the findings are more encouraging. People’s self-reported feelings towards vegans and veganism were both slightly positive, hovering around 4.5 on a 1-7 scale (where 4 is neutral) across countries from the USA to Kenya.7
+
+This modestly supports the theory that anti-vegan sentiment comes mostly from a vocal minority—and that a considerable part of the public is ready to passively support the movement in a lay capacity.
+
+
+## 7. The money shot
+
+
+Imagine it’s February 2027, also known as Offsetbruary.8 Farmkind is graciously waiting in the wings to catch every failed Veganuary participant, offering a way to retain their dignity and continue participating in the movement with a role that matches their commitment. A large and growing movement of offsetters supports and celebrates their committed vegan core through Farmkind’s Adopt a Vegan program, where every monthly donation supports an advocate working on winning campaigns.
+
+What will it take for us to get from here to there? I see three necessary changes:
+
+Vegan activists must accept that veganism is not for everyone, and embrace the laity. The message from us is, veganism is great, but if it’s not for you, you’ve got to at least offset.
+
+Advocates focused on institutional change should treat vegans with the utmost regard. It should never be possible to mistake us for discouraging the exceptional people willing to sacrifice for farmed animals. The message from mainstream allies should be I’m not vegan, but the vegans are right.
+
+Activists need to overcome their ambivalence about money. Money can be used directly to help animals, and more money means more advocacy. A large recurring donation can be much more impactful than one person going vegan– and a small one is better than nothing!
+
+I’ve spent 6000 words ranting at you about the first two, but if I’m reading the responses to Forget Veganuary carefully, the third point might actually be the biggest obstacle.
+
+The strongest negative reactions to Farmkind came from vegan activists disgusted by the idea that someone could use money to pay down the moral debt created by caging and slaughtering an animal. This is the main focus of forgetfarmkind.com, a hilarious satire of the original Forget Veganuary site which you should definitely go click through.
+
+This is genuinely confounding. On one hand, finance is the primary metaphor we use to speak about morality: we owe things to animals, we repay kindnesses, and criminals must pay for their crimes. But taking these metaphors literally, suggesting that someone could use money to correct their moral balance sheet, commonly provokes disgust; monetary debt and moral debt are inconvertible, according to this understanding. This is even further complicated by the fact that most people don’t abuse animals themselves, but pay someone else to do it for them.
+
+The layers of this could be the subject of a dissertation, and I won’t attempt to resolve it all here. I just want to confront the practical question head-on: is there any amount someone can pay to make up for not going vegan?
+
+Let’s imagine someone in Farmkind’s target audience. Call him Dustin. Dustin has been convinced of the moral imperative of veganism, and he is an ethical guy. He knows that he should cut out animal products and educate himself by watching vegan documentaries. But he really wants to keep eating meat, and he really doesn’t want to burn horrible images into his mind. Continuing to be able to eat meat would be worth quite a lot to him.
+
+Dustin has an idea: he will pay someone else to go vegan on his behalf, documentaries and all. By his actions, he can create one more vegan in the world, but he can keep eating meat. He thinks about this, and it feels a little bit imbalanced, so he decides he’ll pay two other people to go vegan, which feels like it will put him solidly in the black.
+
+He’s not sure how much it will cost to pay someone else to go vegan; after all, it would cost a lot to pay him to do it! But maybe other people value meat eating and documentary avoidance less than him– or value a given amount of money more, considering Dustin is relatively well off. He resolves that if he can’t find anyone to go vegan for him, then he’ll do it. But he posts a classified and right away, finds two people willing to completely remove animal products from their diet and spend time learning about animal rights for a monthly fee that he can easily afford. They figure out an accountability system, Dustin happily starts paying, and the world has two new vegans instead of one.
+
+This story illustrates a few things. First, I imagine people will disagree about whether something is missing here compared to a person going vegan for ethical reasons. Dustin won’t undergo that vegan metamorphosis whereby he stops seeing cuts of meat as food and starts seeing them as literally part of someone’s body who had to be parted from it through terrible violence.
+
+What about surrogate vegans? A solid body of research supports the idea that it is much easier to convince people of an animal rights position if they first stop eating meat for any reason. That is, behavior change often comes before a change in beliefs, rather than following from it. And on the other hand, most people who try being vegan revert even if it was for ethical reasons. So while the value of veganism can’t be reduced to the animals you don’t eat, it’s not certain whether Dustin’s strategy is less valuable to the animal movement than him going vegan himself. If we think about the likely outcomes probabilistically, then Dustin’s strategy is worth at least some fraction of a normal vegan conversion.
+
+Setting that aside for a moment, the story also illustrates how money works. Money is kind of magical; it can transform almost anything anyone values into almost anything else. Medieval alchemists spent their lives trying to turn lead into gold, but money can already do that: by denominating a market price for lead and for gold in the same currency, you can sell your lead and buy an equivalent value’s worth of gold.
+
+Money can also do this with valuable things that are not tangible, allowing Dustin to compare the value of his moral obligations against his strong desire to eat meat. But what really makes money incredible is its ability to seek out the lowest-cost way to achieve a given value. In this case, Dustin saw going vegan as a very large sacrifice, and the price he reached in his own mind for what that was worth to him was much higher than for some other people. Thanks to the magical powers of money, Dustin’s conscience was able to search across the world for more cost-effective ways to increase total veganism, getting two vegans instead of one.
+
+Money cannot convert all forms of value. For instance, the discovery that money can’t buy love is popularly attributed to Paul McCartney. Some of the most important things in the world are not convertible to money. But this shouldn’t be a starting principle: if there’s something you want, and you have money, there’s no good reason not to ask if money can help you get it. If money can’t help, so be it, but if it can, it can!
+
+For proof of both these points, let’s come back to the real world Dustin. His name is Dustin Moskovitz. After co-founding Facebook and becoming history’s youngest self-made billionaire, Moskovitz founded Open Philanthropy, now Coefficient Giving. Through CG, Moskovitz may be the single largest donor to farmed animal advocacy and meat replacement in history– and he’s not even vegetarian.
+
+Most people can’t donate hundreds of millions of dollars. But, also, most people aren’t going vegan! Is asking people who won’t go vegan to make a donation better than nothing? The donation could even be used for vegan advocacy!
+
+My friend Tynan Hewes was an experienced door-to-door fundraiser for large charities like Amnesty International when he joined the Colorado chapter of Pro-Animal Future as a volunteer. PAF had never bothered with those kinds of fundraising strategies, and when Tynan asked if he could start knocking on doors, I didn’t think much of it and kept postponing our meeting. Finally, he just started doing it on his own. He quickly started pulling in hundreds of dollars per hour, and soon, PAF hired him as a canvasser at $30/hour.
+
+PAF uses that money for political campaigns, but it could be used for anything. Another organization paying a canvasser $30/hour to knock on doors and raise $100/hour could use the remainder to pay two other people to do door-to-door vegan advocacy. In that case, wouldn’t the offsets be creating more of what we care about?
+
+Animal Liberation Offsets Now!
+
+Sandcastles readers will be familiar with the idea that all strategic disputes reduce to a disagreement about timelines– that is, how far along we are in the history of our movement. Thom used this idea to explain the Forget Veganuary campaign:
+
+We share the same ultimate goal, which is to end the exploitation of animals by humans. The question is, where are we in that journey? Reasonable people can disagree about this. I think, sadly, we’re probably a really long way away from it… In that context, the tools that make sense to us are quite different than if we were much closer to the end. We’re in an environment where eating meat is normal, most people think of it as the default… [our best evidence suggests] the current strategies people have developed on this aren’t having the overall societal impacts that we’d like to see. So if that’s not where we are, if we can’t solve that problem right now, can we get people to take some positive actions right now? That’s why we think offsetting makes sense. Yes, there’s no amount of money you can pay to make that pig or chicken alive again and give them a good life. But in the aggregate, you can prevent the next chicken from being stuck in a cage all her life. You can prevent the next pig from having his teeth removed without anaesthetic. You can prevent the next thousand shrimps from being killed without stunning or having their eyestalks crushed.
+
+But I actually think offsets make sense in short timeline worlds, too. If you think the path to victory will involve political campaigns, corporate pressure campaigns, alt protein R&D, or anything other than directly, linearly increasing the number of vegans, well… all of those things cost money!
+
+If just 0.3% of the US population offset at the modest rate Farmkind recommends, it would double the global farmed animal movement’s budget. If there were as many offsetters as vegans in the United States alone, our collective budget would 3-7x.
+
+It’s time we start accepting alms.
+
+Beg on,
+
+Sandcastles
+
+If you found this essay useful, the best way to help is to share it with another activist. Also, pressing the little heart or leaving a comment helps it feel like I’m not rambling into the void.
+
+Share
+
+1
+
+Granted, it probably lands great with the average Dwarkesh listener, so I think this was a case of Lewis knowing who his audience was at that moment.
+
+2
+
+I found it highly worth reading and mostly recommend it, but I’m still sorting out how to apply its lessons to our movement, so mileage may vary.
+
+3
+
+The study, by Jamie Elsey and David Moss, is currently in preprint. It will be published here later this year.
+
+4
+
+The donation-only message: “Donating even a small amount to the best animal welfare charities is one of the most powerful ways to end the cruelty of factory farming. These organizations are scoring major victories - freeing millions of hens from cages, securing stronger legal protections for animals, and developing alternatives to factory farming. Donating helps them create meaningful change, protecting animals from suﬀering today and building a kinder food system for tomorrow.”
+
+The message contrasting donation and diet change: “You don’t have to change what you eat to make a big diﬀerence for factory farmed animals. Whatever your diet, donating even a small amount to some of the best animal welfare charities can be just as impactful as going fully plant-based. These organizations are scoring major victories - freeing millions of hens from cages, securing stronger legal protections for animals, and developing alternatives to factory farming. Donating helps them create meaningful change, protecting animals from suﬀering today and building a kinder food system for tomorrow.”
+
+5
+
+Vegetarianism in India is a product of cultural inertia and poverty, not a strong animal rights movement. Current rates are almost certainly at a historic low and will continue to trend downwards as the country gets less poor.
+
+6
+
+One dataset had Mexico at an eye-popping 9%, a claim that understandably prompted excitement in the vegansphere. But this was as too good to be true as it sounds. Mexico is not exceptionally vegan.
+
+7
+
+Japan was the sole negative outlier while India was unusually positive. Again, though, this might say more about the staying power of India’s caste system, with vegetarianism associated with the higher castes, than what we’d consider animal rights consciousness.
+
+8
+
+I’m not the marketing guy, OK?

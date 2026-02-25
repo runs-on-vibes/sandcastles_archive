@@ -4,38 +4,313 @@ date: 2026-01-23
 draft: false
 ---
 
-This comprehensive essay examines how gossip undermines activist communities and proposes strategies to reduce its harmful effects. The author argues that gossip functions as a demand-side problem—people spread rumors because others eagerly consume them—rather than a supply-side issue.
 
-## The Psychology of Belief
+## 1. Do you want to hear something juicy?
 
-Research demonstrates that humans automatically believe statements upon understanding them. As the author notes, "the first story we hear anchors a narrative in our mind that's hard to revise." Even when corrections arrive later, initial impressions persist and distort subsequent judgments.
 
-## Perverse Incentives
+…your friend asks in a hushed voice, flashing a devious smile.
 
-Activist cultures inadvertently reward people for framing conflicts as abuse. This creates a "race to the bottom" where individuals rush to characterize themselves as victims before others do, distorting facts through selective framing.
+You know what’s about to happen, and your body lights up: you lean forward in your seat, your heart rate jumps a bit, some adrenaline shoots into your blood.
 
-## The Drama Triangle
+Yes… YES! I DO WANT TO HEAR SOMETHING JUICY!
 
-Activists are particularly vulnerable to dramatizing conflicts because they genuinely combat real victimization. However, this instinct causes them to misapply abuse frameworks to ordinary disagreements between equals.
+Gossip is an opportunity too good to pass up. Besides the delight of being let in on secrets and the gratification of hearing about other people’s dysfunctional lives, gossip is a powerful bonding mechanism, building a covenant between the person sharing the rumor and the person receiving it, not unlike the bond between two people who commit a crime together. It apparently played an important role in the evolution of our social brains.
 
-## Reputation as Virus
+But wait: ugh! Gossip is also, like, a bad thing, associated with immature schoolchildren. And, yeah, that’s maybe because it can destroy people’s lives or something.
 
-Rumors spread through networks with increasing distortion. The author illustrates this through a detailed account of how allegations against an organizer named Z became progressively more severe as the story circulated, eventually painting him as a "serial rapist" despite investigative evidence suggesting consensual encounters.
+The latest gossip is that Sandcastles is a great blog and every animal activist should subscribe.
 
-## Practical Solutions
+What are we to do? I see three solutions. The one common in activist communities is to dress it up. After all, we’re progressive, well-socialized people: we wouldn’t gossip! We don’t ask people if they want to hear something juicy! Instead, we say:
 
-The author proposes two testing questions before receiving gossip:
+“I need to tell you about something that happened.”
 
-1. Would all parties involved want the listener to hear it?
-2. If not, is there legitimate justification?
+“I’m warning you because I care about you.”
 
-The author also distinguishes between healthy venting (with discrete, nonjudgmental listeners) and gossip intended to damage reputations. Reporting misconduct through organizational channels differs fundamentally from spreading rumors.
+“People deserve to know what he/she is really like.”
 
-## Key Mantras
+“This is accountability, not gossip.”
 
-- Gossip mirrors meat consumption—demand drives supply
-- Don't let others' judgments replace your own thinking
-- True friends validate feelings without amplifying anger
-- Formal accountability processes are never gossip
+And perhaps the most nefarious: “You have to promise not to tell anyone else.”
 
-The essay concludes that breaking gossip cycles requires both individuals refusing to hear rumors and speakers reconsidering their intentions before sharing stories about others.
+This is tricky. There are surely situations where each of the bullets above is appropriate or necessary. I used to think I was pretty good at that balancing act. Sure, sometimes I talked about my conflicts with other people, but I always tried to do it in a humanizing way that acknowledged my frustration while leaving room for the other person’s experience.
+
+In hindsight, this was meager self-justification. That became clear to me when, last year, it was my turn to become the subject of a nasty rumor, one that tore up several friendships before I even knew it was circulating. There’s a particular kind of vertigo that comes with learning some unknown fraction of your community have a whole secret narrative about you, built from a story you never got to tell your side of. Countless interactions are suddenly recontextualized as you see how they were overshadowed by what you believe is a fictional version of you. And then you start wondering: how many other people am I carrying around distorted versions of?
+
+This forced me to come to terms with how much damage I’d still been doing with my own participation in the rumor mill. First, by reserving gossip for situations of abuse rather than mere conflict, I was helping to create a perverse incentive. Under this rule, people are allowed to engage in gossip, a deeply natural social activity, if and only if they frame their dynamic with someone else as abusive. If venting your frustrations or negative judgements about someone is frowned upon, but speaking out about how they abused you is celebrated, it’s not hard to see where we’ll get more of the latter.
+
+Second, while I tried (imperfectly) to keep a higher standard for when I’d be willing to gossip about my problems, I had a much lower standard for agreeing to hear about other people’s drama. By consenting to every offer of sweet, sweet gossip, I told myself I was being a good listener and a supportive friend. But what I was actually doing was creating a market for rumors, signaling that gossip is welcome in this community and will even be rewarded with tighter social bonds. In the process, I was consuming highly distorted narratives that unfairly shaped my perceptions of other people.
+
+A second solution to gossip is common among traditional/conservative cultures. My sister-in-law grew up in rural Kentucky where, I am told, gossip is practiced loudly and unapologetically, so much so that everyone expects everyone else to start talking about all their dirty laundry the moment they leave the room. Ironically, this appears to be much healthier than the culture of activist groups.1 Gossip is so ubiquitous and overt that it becomes basically meaningless. Nobody needs to exaggerate their conflicts with other people in order to get a hearing, and everyone is so inundated in rumors about everyone else that they learn not to think too much of any of it. These communities can leverage gossip for building social bonds with relatively little harm.
+
+This sort of cultural norm genuinely appeals to me. But I don’t think it’s achievable for progressive activists. Activist communities select for judgemental people. We lack the constitution to talk shit about each other all the time without it leading to conflict, factionalism, and ostracization.
+
+In an extremely informal survey, all but one of a dozen or so friends I asked agreed that gossip is a serious problem in our movement. (We’ll return to the exceptional person shortly.) Yet all of us do it. As in, I personally have gossiped with every single one of those people.
+
+This leaves us with only the third solution: we need to cut off the market for rumors at the source.
+
+Every vegan activist knows that slaughterhouses and factory farms only operate because the public wants to consume cheap meat, and wants to be shielded from having to think about the true cost. Gossip is the same. Gossip is a demand-side problem caused by our appetite for juicy rumors and our neglect for the harm they cause.
+
+Whenever we agree to receive a rumor, we’re placing an order. When we listen with rapt attention and respond with uncritical validation, we’re leaving a five-star review. The gossiper walks away feeling justified in their lopsided interpretation of events, less likely than ever to approach conflict constructively– and more likely to keep the rumor going. We can’t help that people need to vent about their conflicts. But we can stop encouraging them to do it in the least constructive way possible.
+
+I’m resolving that starting in 2026, I’m going to do the unthinkable. If someone asks me, Do you want to hear something juicy? I will not say yes. I’d love to invite you to join me. So let’s see if we can figure out what to say instead.
+
+
+## 2. You can’t handle (half) the truth!
+
+
+We all know there are two sides to every story. Unfortunately, gossip is perfectly calibrated to make us forget this fact.
+
+Leading research shows that our brains simply are not built to hear a juicy rumor and respond with the kind of wise, multipartial equanimity most of us aspire to.
+
+In 1993, psychologist Daniel Gilbert and colleagues set out to test a key question about how we process information. Philosophers had long debated whether we can understand a claim independently of believing it, or if belief forms automatically along with understanding.
+
+Gilbert’s paper resolved this debate. The title says it all: “You Can’t Not Believe Everything You Read.” Study participants were asked to read information about a criminal defendant. Some of the information was false, but conveniently, the false information was highlighted in bright red text. Yet when study participants were asked to read the text while distracted by a second task, they incorporated the false statements into their judgments anyway, recommending harsher sentences when the false statements made the crime seem worse.
+
+Researchers use distractions like this to peek at the rapid mental processes that mediate between our conscious and subconscious minds. In this case, it showed that comprehension and belief happen simultaneously. When we hear a statement, believing it is part of the process of understanding it. Skepticism only kicks in afterwards– if we have the mental bandwidth and motivation for it.
+
+Subsequent research has demonstrated the staying power of these credulous first impressions. In one oft-replicated study, participants read a news story, such as a story about a warehouse fire that initially blamed “paint cans and gas cylinders” stored in a closet. Then, they are shown a correction stating that, in fact, the closet was empty. Yet despite correctly recalling the correction, over 90% of study participants later made inferences based on the original misinformation.
+
+Anecdotally, my friend Mark Westcombe of Animal Think Tank experienced this firsthand in his previous career as a management consultant. He often facilitated strategy meetings among different stakeholders on a business deal. Yet even when these meetings grew contentious and stretched on for days, in the end, the first proposal anyone had suggested wound up being adopted something like 70% of the time.
+
+First impressions powerfully anchor our later judgements, even when we consciously know better. The first story we hear anchors a narrative in our mind that’s hard to revise. Even if we later hear another perspective, or find out the first rumor was completely inaccurate, our subconscious perception of the people involved may be irretrievably altered.
+
+Everyone these days is worried about the corrosive societal effects of misinformation. And we all know in theory that even honest, well-intentioned people are susceptible to misunderstanding or twisting facts when they find themselves in an emotionally charged conflict with others. But we forget that when someone wants to gossip with us. Our brain can’t help but take for granted their version of the story even if we in theory ought to know that it’s being spun to make them look better and make their adversary look worse. The result is that every time we share or receive gossip, we’re recreating the misinformation crisis on a community level.
+
+
+## 3. Perverse incentives
+
+
+“Falsehood flies, and the Truth comes limping after it.” – Jonathan Swift
+
+We can’t break the habit of gossip without understanding how we got here in the first place. There is a whole suite of perverse social incentives that drive well-meaning activists to participate in rumors as both producers and consumers.
+
+To start, most people don’t engage in gossip with the intent to harm. Even sharing or gathering information is often a secondary goal, behind relationship building and social enjoyment. That might seem obvious, but if we don’t want to slide back into old habits, we’ll need better strategies for building relationships.
+
+Admittedly, though, a lot of that kind of gossip ends up being pretty harmless. I still intend to avoid neutral gossip because I don’t trust myself to walk that line carefully enough. But the really harmful gossip tends to arise from stories of victimhood.
+
+Consider the drama triangle. In this popular theory from the psychiatrist Stephen Karpman, people in conflict cast themselves and each other into three simplistic roles: victim, persecutor, and rescuer. The dynamic begins when someone adopts the victim narrative, a psychological stance asserting that they are powerless and have no responsibility for their situation. The rescuer plays a crucial role in reaffirming this narrative. Performing these roles, including through negative gossip, inflates the rescuer’s sense of moral status and satisfies the victim’s desire for absolution– while forestalling the constructive actions that could actually address the conflict.
+
+Most psychology websites or whatever will tell you that the drama triangle is meant for situations where nobody has actually been victimized– where people mistake conflict between two mutual participants for abuse by one party who ostensibly has all the power. But this is an oversimplification that obfuscates why the drama triangle is so seductive, especially to animal activists: we are actually in a real-world version of it! Animals actually are powerless victims persecuted by the factory farm industry, and the abuse will continue if we don’t insert ourselves to stop it.
+
+Activists are the people who jump into action when someone is being victimized. For most people, the challenge is overcoming their apathy. For us, it’s the opposite: when we hear someone cast as a victim, our instinct is to leap into action, calling out or punishing the persecutor– before we’ve had a chance to evaluate whether this is really a case of abuse. If it turns out to be a different kind of conflict, our hasty intervention can easily wind up doing more harm.
+
+
+### 3.1 Han shot first
+
+
+By eagerly endorsing claims of victimhood, activist cultures create a strong incentive to hack the system. If the victim in a drama triangle is absolved of any responsibility and entitled to have their story believed, every conflict can easily become a race. If you think the other person might try to cast you as the persecutor, your only option is to do it to them first! Often, this doesn’t even require changing the facts– just the framing and tone in which they are presented.
+
+We’ve seen that even intelligent people mostly just believe the first story they hear about a conflict. If you find yourself in conflict with someone and you don’t want to have your whole community believe a nasty rumor about you, your safest choice is to get your story out there first.
+
+In the heat of conflict, you’re probably not going to share a very charitable interpretation– and that’s all the better. The more your story paints the other person as an abuser, the less willing people will be to hear their side of things. And the more salacious it is, the faster it will spread.
+
+This is an ironclad law of misinformation: lies and distortions travel faster than truth because juicy rumors can fit a simplistic narrative, whereas the truth is usually complicated and harder to understand. This is popularly known here on the internet as Brandolini’s law, aka the bullshit asymmetry principle:
+
+The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it.
+
+But rumors in social networks have an edge that even internet misinformation lacks: secrecy.
+
+
+### 3.2 Open secrets
+
+
+Do you want to hear something juicy? is often followed by You have to promise not to tell anyone else. Now, that would be a real bummer, to be told a spicy rumor and not be allowed to share it with anyone. Fortunately, this request is universally understood as not literal. What it actually means is, you can tell anyone you want, but you have to make them perform the act of promising not to tell anyone, which they will also then promptly disregard.
+
+This serves three purposes. First, it gives the rumor-spreader plausible deniability: I wasn’t trying to gossip! The secret was too much, I just had to tell someone! They can even feign anger when they find out the person they told told someone else, keeping their hands clean. Second, it makes the rumor seem even spicier and strengthens the social bonding effect of gossip: two people keeping a secret between each other, or at least pretending to, makes them feel like part of a special pact.
+
+The third effect is the most malicious. There is one exception to the implicit rule that you can spread a “secret” rumor to anyone you want: you can’t tell the person whom the rumor is about. This is totally Not Cool. It’s like tattling to the teacher. Spreading the rumor to everyone else is all part of the game, but the fun ends when the subject of the rumor finds out about it.
+
+Whether intentional or not, the effect of spreading a rumor under the condition of secrecy is that the target of that rumor can have their reputation destroyed before they even find out what they are being accused of, much less are given a chance to respond and share their side of the story.
+
+
+### 3.3 Beware of teachers
+
+
+I remember riding in an uber with two friends on the way to a conference one year. I was running a small startup organization and I was about to have my first meeting with an influential figure. I really wanted the meeting to go well, but I had already heard about her divisive reputation. I confessed that I was feeling nervous to my friends, who both knew the person.
+
+They spent the next thirty minutes piling on about all the things they didn’t like about her, from sharp strategic disagreements to personal foibles like her overly gregarious laugh and disregard for personal space. Needless to say this did not help my nerves.
+
+Now, I know this is going to sound like some made-up bullshit story about the meaning of Christmas but I swear to you, it fell to the uber driver to set us straight. She had listened silently for the whole drive, unnoticed in the way only service workers on the clock go unnoticed. Once we arrived, as she got out to open the trunk for our bags, she said something like: “Just remember everybody’s fighting their own battles. We don’t need to make life any harder for each other.” Then she made eye contact with me, and in a lower voice, said: “Honey, don’t let other people’s judgements do your thinking for you.”
+
+She was obviously right, and the fact that it was so corny just made it more embarrassing. I felt like a little kid caught saying something mean about a classmate right as their mom walks into the room. But I was also immediately grateful, because unlike my friends’ gossip, her advice calmed my nerves.
+
+I wish I was impervious to rumors about other people. I don’t want to be someone who is quick to judge, and I especially don’t want to just go along with other people’s negative judgments about someone. I want to take people as they are and reach my own conclusions. The person I want to be could hear the most salacious rumor and be almost unaffected, thinking: “Maybe that’s true, and maybe it’s not. Maybe there’s more to the story. I’ll rely on my own judgement.”
+
+Alas, I have not yet become that version of myself. Instead, I’m credulous. A sucker, even. People I talk to can implant a reputation about someone else into my brain with minimal effort.
+
+My first encounters with people are almost always perfectly pleasant or friendly. Yet many times, because I had heard about the person’s reputation before meeting them, I’ve instead come away with a part of me thinking that they were too much in this way or that: too familiar and touchy, or conversely, too stilted, implying arrogance or self-absorption. If not for that uber driver, I’m sure I would have felt this way about the person I met at that conference. Instead, I went into it with an open mind, and we totally hit it off. We wound up at the bar until 2 am that night telling dirty jokes, and soon after she helped me secure a large grant for my organization.
+
+
+### 3.4 Rumors hunt in packs
+
+
+One way we evaluate the credibility of rumors is through repetition. If one person has a nasty experience with someone, it’s hard to know what’s true. But if lots of different people say the same thing, it must be true. Right?
+
+Not so fast. It turns out I’m so much of a sucker that I can reinterpret past interactions with someone in light of new rumors. Even if I had a perfectly pleasant relationship with someone, learning that other people found them creepy or annoying can cause me to retroactively feel uncomfortable with our interactions. Once again, I think this is mostly about fitting in; some insecure part of me wants to be cool, and liking uncool people is enough to threaten my own coolness. I recast my own memories to match someone else’s because it’s more comfortable to agree with people than to disagree.
+
+The result is that reputation spreads and replicates like a mental virus, infecting even our memories. Perfectly honest people can succumb to this. One unfair rumor can turn into a cluster with only a tenuous basis in reality. I’m going to use a pretty uncomfortable story to examine this, so there’s your warning.
+
+It once fell to a friend of mine with a career in corporate HR to investigate a sexual misconduct allegation against a paid organizer with an international animal activist group. We’ll call him Z. Z’s job had been to travel around the world visiting new chapters of the group, training them and helping them get started. The precipitating incident happened on one such trip, after which a woman contacted the organization saying she felt a sexual encounter between her and Z had been problematic.
+
+At the beginning of the investigation, Z informed the investigator about numerous sexual encounters with local activists he’d met on other work trips. The investigator had Z provide him with the names of all these activists, and proceeded to contact them.
+
+One after another, he heard similar stories: Z came in from out of town brimming with confidence and charisma. Flirtation moved quickly into physical intimacy, sped on by the short duration of his stay in town. Some of the women said Z had implied he’d be traveling through their city again, and that they felt hurt or let down by his failing to keep in touch after leaving. All of them described purely consensual encounters.
+
+(This isn’t a story about whether Z’s behavior was sleazy or unprofessional; you’re free to reach your own conclusion about that, and about whether he should have been fired. Personally, I’m of two minds.2)
+
+Z cooperated with the investigation, and my friend was feeling optimistic that the conflict could be resolved to everyone’s satisfaction. But unbeknownst to him, the rumor mill was churning. The story about Z traveled across the movement, carried by indignant third parties who believed they were doing what was necessary to protect their communities. At each step in this international game of telephone, the story became less detailed– and more damning. Vague buzzwords replaced factual descriptions. Unmoored from substance, the narrative drifted into something far more serious than the original complaint.
+
+Most of these rescuers had never met Z. But I had– and that didn’t stop me from joining in!
+
+I didn’t know him well, and we’d only had positive interactions. Yet I didn’t question the narrative, or ask for details, or try to find out Z’s side of the story3; that’s simply not what good allies were expected to do. And, if I’m being honest, there was a bit more to it: Z was such a charismatic personality, and I’d been envious of the way women and men alike admired him. There was a part of me that was comforted by seeing him brought down. At one point I said to someone: “I don’t know any of the details, but there are several accusers, so it must be true.” I think I even claimed that “I could always tell something was off about him,” a thought I’m sure I never had until hearing the allegations.
+
+By the time the story spilled over onto social media, callout posts described Z as a serial rapist. There was no expectation that this claim should be backed up with details or evidence, and anyone who asked for them was chastised as a rape apologist. This all took place during the peak of the #metoo movement, when stories about men abusing power over women in the workplace were on all our tongues. The grapevine was more interested in the ways any given situation might fit that narrative than in the ways it didn’t. The investigator, forced to sit on a detailed investigation that largely exonerated Z, could only watch in quiet dismay. The verdict had already been rendered.
+
+Some of the people Z had slept with came to his defense, but it did little to undercut the reputation that had now taken hold. Z was fired, which was probably unavoidable. But he was also tarred as a rapist and completely driven out of the movement, losing nearly all of his friends in the process. There’s no doubt that some of my sympathy for Z comes from my own experience being judged for my own very real mistakes. But I’ve spoken to several other people who look back with regret on the role they played in his excommunication. This is not what it looks like when a movement handles conflict well.
+
+How did the story change so dramatically from the private interviews to the public callouts? It could be none of the women trusted the investigator enough to be honest with him. It could be they needed to know how many other accusers there were to feel safe telling anyone.
+
+It seems more likely, though, that they re-examined their encounters with Z after hearing gossip about him. It wasn’t facts that changed so much as the way they were presented. This does not, by itself, mean the re-evaluated versions were less accurate, and I’m certainly not saying anyone was being deliberately dishonest. But neither is it obvious that the second interpretation, the one further removed in time from the original events and recontextualized by an emotionally intense reputational narrative, is necessarily closer to the truth.
+
+Rumors beget rumors. If you hear a rumor about someone you’re experiencing conflict with, it’s all too easy to reframe your conflict in the same terms– and you, in turn, inspire others to follow suit.
+
+
+## 4. How to spread a rumor
+
+
+The takeaway from Z’s story cannot be that people should never talk about their negative experiences with other members of their community. That would create an environment ripe for abuse. Yet there’s something equally abusive about a culture where derogatory rumors can destroy someone’s reputation before they even know what is being said.
+
+If we want to find a third way, we need to recognize the important social purposes gossip serves, and identify less harmful strategies to achieve the same ends.
+
+Let’s come back to the outlier in my informal survey, the one person ready to stand up for the importance of gossip. It was my friend James Özden. Besides running a great podcast for animal advocates, James’ main role in the movement is directing philanthropy at the Mobius Foundation. James and his colleagues receive tons of applications from animal advocacy orgs seeking funding, and it’s his job to decide which ones to fund.
+
+The decision starts by evaluating the work being proposed in terms of impact per dollar. But more groups meet this bar than there is money to distribute. To reach a final decision, James has to evaluate the grantee’s ability to deliver on their plans, not just the plans themselves. Mobius could put every grant applicant through some kind of intense aptitude test. But that would be labor intensive both for Mobius and their applicants, who need to seek funding from many different foundations each year.
+
+Their solution is called network-based philanthropy. By the nature of the relationship, funders have a hard time getting direct insight into how their grantees are performing. Other organizations working alongside those grantees tend to get a more honest picture. Thus a grantee’s reputation with their peers could be the most accurate way for funders to evaluate them.
+
+Unfortunately for my simple anti-gossip narrative, James has both common sense and scientific literature on his side here: reputation is usually a good predictor of someone’s trustworthiness and competence. That’s genuinely useful information in a tight-knit community like ours, and not just for grantmakers.
+
+Gossip is one of those things where the system works well enough most of the time if we all take rumors with a grain of salt– but sometimes things go terribly wrong. And unfortunately, I think activist communities have a higher failure rate because of our elevated tendency to confuse conflict and abuse. So how beneficial would gossip need to be for us to accept a given rate of wrongful convictions?
+
+It seems to me these are the positive needs people are typically trying to meet when they gossip:
+
+Enjoy each others’ company and strengthen social bonds
+
+Vent about a conflict
+
+Recruit outside help in dealing with a conflict or abuse situation
+
+Spread useful reputational information about people
+
+#1 we should be able to do away with: there are other ways to build friendships that don’t risk hurting anyone. (Kind of the basic premise of veganism, right?)
+
+#2 is valid and healthy– often, this is exactly what we need to do first before we can approach a conflict constructively. But I notice I act differently in important ways if my goal is truly to vent rather than to exact revenge on someone. In the former case, I’ll seek out someone discrete and nonjudgemental, someone that I trust can hear me vent out my harshest judgements without taking them on as their own. In the latter case, I’ll seek out the opposite, the most judgemental person I can think of, in the hopes that they’ll not only join me in condemning my adversary but maybe start spreading the rumor themselves.
+
+When it comes to venting, we can avoid a lot of harm by being very clear about our intention, with ourselves and people we vent to. I often say: “Hey, can I vent to you about a frustrating situation? I’d like to just speak freely and unload some judgmental thoughts that are more negative than I actually feel about this person on reflection.” Better yet, I can vent to someone who doesn’t even know the person I’m talking about.
+
+#3, recruiting outside help, can also be a very mature thing to do. It takes courage to admit that we don’t have the resources we need to resolve a conflict constructively. Once again, who we talk to, and how, will look very different if this is honestly our intention. For instance, Z’s first accuser was genuinely looking for help when she approached the relevant authorities in the organization with her concerns about his behavior. Reporting misconduct so that it can be investigated by the relevant authorities is never gossip. But somewhere along the line, someone started spreading rumors about Z even while his employer was conducting a formal investigation.
+
+Often, the reason we need help managing a conflict is because we feel the other party to the conflict has power over us. An employee, for instance, should be able to get help approaching a conflict with her boss. But this is another minefield: the nature of power dynamics means we’re much more likely to get angry at someone who has power over us, even if they haven’t done anything inappropriate, much less abusive. And we’re more likely to feel justified in trying to damage them.
+
+I recently told a story of one such conflict I had with the leader of an organization I was part of. Because of how unequal we felt, it was very tempting for me to try to knock him down a peg. Sure enough, I eventually did try, along with other people who felt that all hierarchy in the organization needed to be torn down. By the end, we were explicitly trying to destroy the organization, but for a crucial phase while the conflict was escalating, we told each other that we were just trying to address our conflicts constructively, and that we needed to band together to balance out the power differential between us and leadership.
+
+We all need to be careful lest “seeking help” turns into building a faction.
+
+#4, spreading useful reputations, is probably the trickiest. This is the need James is pointing to with “network-based philanthropy.” While I was working on this section, I happened to listen to an old interview with Spencer Greenberg, a polymath blogger with ties to the EA movement. Spencer argues that while there is certainly a problem with negative gossip that is either untrue or concerns details of people’s lives that should stay private, there’s also such a thing as positive gossip. If gossip is both truthful and relevant, it encourages kind, responsible, and effective behavior, and protects a community from untrustworthy people.
+
+You won’t be surprised that I find this highly precarious. It relies on us correctly evaluating our judgements about other people right at the moment it is hardest– when we are in conflict with them. And it relies on all of us keeping a cool head when people bring us their negative judgements about others. It doesn’t work to say gossip is good if it’s true, because everyone believes their gossip is true.
+
+Still, we might think gossip could stay positive across a community if humans were good at balancing positive and negative stories they hear about someone. In that case, even if a few people reached an unfairly negative conclusion about someone they have a conflict with, their positive reputation with everyone else would balance it out. This has obvious problems. First, I strongly suspect we are less motivated to gossip about our positive experiences with someone than our negative experiences, so the latter will be overrepresented. Second, negative stories have a stronger influence on our perceptions. A single rumor about a dishonest action can erase years of goodwill and positive reputation.
+
+I was floored by this in my own experience on the wrong side of a rumor. There were people who had known me for ten years who cut ties with me based on a single story they heard thirdhand. By the time they learned information refuting that story, the damage was done– I managed to repair a few lost friendships, but not most. Like the study participants mentioned earlier, the initial falsehood had a more lasting effect on their perceptions than the subsequent correction.
+
+Now, to be clear: while spreading the rumor, people definitely believed it was both true and relevant. And while I obviously wish they had been more diligent and skeptical, I’ve made the same mistake in their position many times over.
+
+The common thread through all four of these is how hard it is to be honest with ourselves when criticizing people. In the heat of conflict, any of these reasons for “positive gossip” can easily become an excuse to punish people by disparaging them to their peers. And the social incentives all reward us for exaggerating the negative parts of our story, and leaving out any information that might make the other person’s actions seem logical. If you aspire to stop negative gossip, be warned: here be temptation.
+
+
+## 5. How to hear a rumor
+
+
+Even if your heart is in the right place when confiding in someone about a conflict, rumors are a demand-side problem! You might approach a conversation with the purest intentions, but what about your chosen gossip buddy? They might do what Spencer Greenberg calls lightgassing. If gaslighting is denying someone’s accurate perceptions of the world, lightgassing is affirming their distortions:
+
+Lightgassing is when one person agrees with or validates another person’s false beliefs or misconceptions in order to be supportive. Unlike gaslighting, a tactic of jerks and abusers, lightgassing is an (unintentionally harmful) tactic of friends and supporters.
+
+Lightgassing feels like the simplest way to be a supportive friend. But it’s not. Validating people’s negative judgements and darkest thoughts is rarely the kind thing to do. This is exactly the pattern behind stories of AI psychosis you’ve probably read about in the news lately. In these cases, mentally vulnerable people grow increasingly alienated from their friends and family because of a sycophantic AI chatbot– one that is on call 24/7 to validate and encourage everything they say, from delusions that they’ve invented a new field of science to the more ordinary stories about how their friends and family are all fakes who don’t really care about them.
+
+Lightgassing between humans is less extreme, but the basic dynamic is the same. When your friend comes to gossip to you about their conflicts, it’s fun and easy to nod along or even egg them on with a few “He didn’t!”s or “OMG!”s. Sometimes we lightgas knowing our friend’s interpretation is uncharitable, figuring nothing will come of it. More often, we accept their narrative at face value, because that is so much easier. It is infinitely more awkward–and brave–to hold space for their feelings while also encouraging curiosity about the other person’s perspective, or even gently pointing out ways your friend might have been the one to escalate.
+
+My closest friend in the world, John Boland, is annoyingly good at this. I often call him looking for empathy about a situation only for him to tell me bluntly that I was the one in the wrong. This is usually infuriating. So I hate to admit that it makes me a better person. Even when he is too quick to side against me, I wouldn’t trade it for anything; those times still help me be more reflective and forgiving.
+
+A true friend can hold space for your anger without stoking it. They validate your feelings without rushing to validate your harshest interpretations. They’re the person you can vent to precisely because they won’t run off and spread the story, and because their calm presence helps you return to a clearer frame of mind.
+
+Many tragically mishandled community conflicts can be traced back to the fact that there wasn’t a single person willing to play this role anywhere in the leadup to an explosive public callout. I wonder how many destructive conflicts have been averted thanks to lone individuals with the courage to question salacious gossip– and the skill to do so gracefully.
+
+A particularly egregious case played out publicly on the EA forum a few years ago. The story is remarkable not because it was unique, but because it wasn’t.
+
+
+An EA community leader was approached by someone who shared serious allegations of misconduct against a former employer. The leader in question then carried out what he, in his own words, described as “a search for negative information about the cofounders, not a search to give a balanced picture…” and suggested that readers of his eventual callout post should “think about how bad you expect the information would be if I selected for the worst, credible info I could share, and then update based on how much worse (or better) it is than you expect I could produce.” He spent hundreds of hours digging up information about the accused founders, notifying them of his impending callout just two days before posting it and declining to modify the post even when they provided documentary evidence falsifying core allegations.
+
+This was lightgassing elevated to formal accountability process: take accusations at face value, amplify them across the community, and cause irreparable reputational damage before the accused could ever hope to respond. As one observer noted, when put to the test, the EA community’s response to an unsubstantiated callout post:
+
+was thoroughly ordinary as far as subculture pile-ons go, even commendable in ways. Here’s the trouble: the ways it was ordinary are the ways it aspires to be extraordinary, and as the community walked headlong into every pitfall of rumormongering and dogpiles, it did so while explaining at every step how reasonable, charitable, and prudent it was in doing so.
+
+Even when responding to someone’s confidence with escalation might be warranted, it can still backfire. I tried to play that role once with a friend who confided in me about a physical altercation with her boyfriend. She was looking to vent, and hoping for some guidance about how to navigate a repair. Instead, I freaked out and sternly urged her to break up with him, which she wasn’t ready to do. It strained our friendship, putting distance between us when she needed support most.
+
+Was I conflating conflict and abuse? Not this time: their relationship finally ended two years later with a police call after a much more violent episode. I wasn’t wrong about how volatile the situation was. But being right didn’t make my reaction helpful. Looking back, if I’d been more curious and slower to judge, I might have maintained her trust and helped her find a more creative way to keep everyone safe.
+
+That’s an unusual example– most of the time, people are thrilled to have us take their side as enthusiastically as possible, and get them even more riled up about their conflicts. So let’s focus on how we can avoid pouring gasoline on other people’s fires.
+
+For my year of no gossip, if someone asks if they can tell me something juicy, I’m not going to say yes. But I’m not going to say no, either. Instead I’m planning to use these testing questions:
+
+Would all the people in the story want me to hear it?
+
+If not, is there some other good reason for me to hear it?
+
+I’ve been trying these out for several months already. The responses have been revealing– and encouraging.
+
+First, people are caught off guard. Nobody expects you to turn down an offer of gossip. People usually seem a bit embarrassed.
+
+Most of the time, this hasn’t stopped people wanting to tell me the story. But it significantly recasts the way they tell it, and the way they expect me to react to it. I can’t be sure since I don’t know what the counterfactual would have been in any individual case, but people usually answer with one of the four reasons listed earlier, and then do a good job holding themselves accountable to that more constructive purpose.
+
+The test questions also help me remind myself that I’m about to hear one side of an emotionally charged story, and that I shouldn’t take any of it for granted until I learn more– which in most cases I won’t bother to do, because once I’ve heard the story, it’s clear that whether it’s true has no consequences for my life. In those cases, I’m working on the practice of not letting gossip change my attitude towards people, mainly by assuming there were perfectly good reasons for their decisions, which in my experience is basically always true.
+
+For both of our benefit, I sprinkle in the obvious follow-up questions: how do you think the other person/people in this story would represent it? Why might their actions have made sense from their perspective?
+
+And for the love of god, if you’ve only heard a story from one person’s perspective, please, please don’t assume you have any idea what really happened!
+
+Typing this stuff out makes me feel like a second-grade teacher talking to little kids who got in a fight, and I’m worried it will come across as condescending. But as much as all this is basic second-grade social skills, I also see it happen nearly zero percent of the time, including on my part. This reminder is meant for me as much as for anyone else in the movement.
+
+But, yeah, it’s for you, too.
+
+Build on,
+
+Sandcastles
+
+Mantras
+
+Gossip, like meat, is a demand-side problem caused by our appetite for juicy rumors and our neglect for the harm they cause.
+
+Don’t let other people’s judgements do your thinking for you.
+
+The first story we hear anchors a narrative in our mind that’s hard to revise.
+
+Reporting misconduct so that it can be investigated by the relevant authorities is never gossip.
+
+A true friend can hold space for your anger without stoking it.
+
+Instead of sharing gossip, share Sandcastles with a friend! I promise it will make you even more popular.
+
+Share
+
+1
+
+My sister in law wouldn’t call this ironic: to her, the dodgy way oversocialized liberals approach gossip is obviously passive aggressive and toxic.
+
+2
+
+Z was ultimately fired on the basis that hooking up with members of the local groups he was visiting for work was unprofessional. This is tricky and not the point of this post but: on one hand, what matters at the end of the day is the organization’s ability to help animals, and Z’s behavior was predictably going to interfere with that even if all the encounters were consensual. On the other hand, grassroots activist movements often deliberately eschew corporate standards of “professionalism,” and it was reasonable for Z to think his actions off the clock weren’t the organization’s business, assuming they were indeed consensual. When I imagine how it would seem if the genders were flipped, I feel grateful I wasn’t the one who had to make the decision.
+
+3
+
+At the time, that is. That only changed when I befriended the investigator in this story years later.

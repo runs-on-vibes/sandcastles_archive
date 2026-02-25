@@ -4,22 +4,330 @@ date: 2025-11-28
 draft: false
 ---
 
-This essay challenges conventional animal advocacy terminology by arguing that welfare campaigns for farmed animals represent more radical activism than traditional abolitionist approaches. The author contends that public indifference to farmed animals makes even modest welfare improvements narratively powerful, while campaigns for companion animals fail to shift attitudes toward factory farming.
+This post was originally part of International Shrimpact Week, a competition between Substackers to raise matching funds for the Shrimp Welfare Project. While that particular matching drive is over, you can still help around 1,400 shrimp per dollar donated here!
 
-## Key Arguments
+Intro: we’ve got radical<>moderate all mixed up
 
-**The Categorization Problem**
-The author demonstrates that most people sort animals into fixed mental categories—pets, wild animals, vermin, and farmed animals—based on their relationship to humans rather than inherent moral worth. These categories don't easily transfer; campaigning against greyhound racing won't increase concern for chickens.
+“Moderation in all things – including moderation.”
 
-**Defining "Radical"**
-Drawing on sociologist Sidney Tarrow's work, the author introduces the "Tarrow Line": there's an inverse relationship between how radical your cause appears and how radical your tactics should be. Shocking tactics work when the public already sympathizes with your message; more extreme causes require restraint.
+I recently talked to an abolitionist animal activist who expressed discomfort with the idea of using radical tactics to advocate for welfare reforms. The case in point was protests by the International Council for Animal Welfare, who have staked out a niche by deploying radical tactics in favor of cage-free and other welfare campaigns, occupying corporate offices and shouting down customers at retail outlets.
 
-**The Shrimp Welfare Backlash**
-The intense public ridicule following coverage of the Shrimp Welfare Project proved that "extending even the smallest consideration to farmed animals triggers more fury than outright abolishing dog research or entertainment industries."
+The conversation orbited around several questions:
 
-**Timeline Matters**
-Strategic disagreements often stem from differing assumptions about how distant animal liberation is. Those believing change is imminent favor bolder demands, while those expecting centuries of progress prioritize incremental welfare improvements affecting billions of animals now.
+Should “radical” tactics like sit-ins and raucous protests ever be paired with “moderate” demands like welfare reforms?
 
-## Core Insight
+If we want to run and win incremental campaigns, which would bring us closer to ending factory farming/all animal farming: “welfarist” campaigns targeting farmed animals such as hens and shrimps, or “abolitionist” campaigns targeting fur, foie gras, vivisection, and greyhound racing?
 
-Welfare campaigns for factory-farmed species, particularly aquatic animals, represent the movement's most transgressive work because they challenge the fundamental public assumption that farmed animals deserve no moral consideration whatsoever.
+Does working towards ending factory farming also bring us closer to ending animal farming, or are these goals separate (or even at odds)?
+
+My interlocutor said that he wasn’t against welfare campaigns in principle, but thought that it was harmful to teach grassroots activists to take such drastic action for such a modest reform. (Caveat: we talked about it for a while and I admit that by the end I still didn’t totally understand his position, but I think I’m representing it right.) In his view, radical tactics should be reserved for radical demands.
+
+The more I thought about the conversation, the clearer it came to me that it was premised on assumptions about what radical vs. moderate and welfarist vs. abolitionist even mean that were all mixed up.
+
+My own view on these questions has shifted substantially, from my early time as an abolitionist organizer with Direct Action Everywhere through years I spent conducting public opinion research for animal advocacy at Pax Fauna, and finally running ballot initiatives (a fur ban and a slaughterhouse ban) at Pro-Animal Future. Yet even a year ago I would have laughed in your face if you told me the conclusion I am about to present.
+
+See, I still had major reservations about welfare campaigns. The main reason abolitionists give for opposing welfare campaigns like cage-free is that they don’t lead towards our ultimate goal of abolishing animal farming, and perhaps even make the public more complacent. Some abolitionists respond by advocating for veganism on the individual level, or by holding protests or running ballot initiatives (ahem) calling for all slaughterhouses to be shut down. Unfortunately, though, we can’t actually win those demands with our current level of public support or political power. Other activists support the idea of using incremental campaigns, but only support campaigns that are “abolitionist.” These include banning horse and greyhound racing, shutting down vivisection labs and dog farms, and seeking to ban products like fur and foie gras.
+
+I write about how animal activists can focus on what matters, and avoid getting distracted by what doesn’t matter. All essays are free, so subscribe now!
+
+But these distinctions aren’t as simple as they first appear. And that confusion is interfering with our ability to answer the question we really care about: what will lead us to end animal farming sooner, or end factory farming sooner?
+
+One fact in particular is key to answering that question: because of the way the public sort different species of animals into mental categories, anything not related to food animals does not affect their perception of using animals for food. Below, I argue that creating even more compassion towards dogs by campaigning against greyhound racing will not spill over into opposing animal farming. This is true of both public opinion and activist momentum.
+
+The extreme public controversy sparked by the mere existence of a 10-person nonprofit providing small comforts to shrimps reveals the truth: it is far more radical to ask the public to grant even the smallest consideration to animals used for food, especially aquatic animals and especially shrimps, than to outright abolish the exploitation of dogs for research or entertainment. They already love dogs and are already perfectly comfortable separating their love for dogs from their indifference to chickens and shrimps.
+
+That, reader, is why the shrimp welfare people are the most radical extremists in the animal movement.
+
+“The tyranny of your endless cocktail hour is over. Now is the hour of the Prawnletariat!”
+
+Radical does not mean right. But sorting out our understanding of radicalness can help inform the tactics we use for all our campaigns.
+
+
+## 1. Premise: we should push public opinion with “radical” demands
+
+
+“Be realistic, demand the impossible!” – Che Guevara
+
+For my first ~6 years in the animal movement, I was strongly opposed to incremental welfare reforms, especially cage-free campaigns, for several reasons. The primary reasons were moral. I considered incrementalism a betrayal of animals. I felt we had a duty to demand a full end to animal exploitation, because that’s what I’d want if I was the one being farmed. I was doubtful that modest reforms like cage-free even represented a real welfare improvement for animals.
+
+But I also questioned these campaigns for strategic reasons. The main point I’d come back to when arguing with proponents of cage-free campaigns was that they might actually make it harder for us to achieve our ultimate goal of animal liberation, by making the public more complacent about the way animals are being treated. Some part of me even thought that we’d be set back without being able to show footage of the most extreme cruelties like battery cages. (I admit that seems to contradict the sentiment above about cage-free not actually improving welfare. At the time, I’d have said it just didn’t look as bad.)
+
+It was a strategic argument that first convinced me cage-free campaigns might have some limited value. A college friend of mine who wound up working at The Humane League explained that cage-free eggs would be more expensive to produce, which ought to reduce either demand for eggs or the profitability of the industry. This convinced me that welfare campaigns could be one component of a comprehensive war on the meat industry culminating in animal liberation. I wrote about that shift in perspective a few years ago.
+
+However, I was still worried about the industry using incremental welfare reforms to placate public opinion. I thought that while it made sense for “inside game” organizations to quietly pressure corporations to adopt cage-free and other welfare commitments, our message to the public needed to be more radical. Radical abolitionism would challenge the speciesism underlying all animal abuse, and eventually lead to a “tipping point” moment where public opinion was suddenly polarized against speciesism, just like previous movements had stigmatized racism, sexism, and homophobia.
+
+This was a common viewpoint. The main reason abolitionists give for opposing welfare campaigns like cage-free is that they don’t lead towards our ultimate goal of abolishing animal farming, and perhaps even make the public more complacent. Everyone understands implicitly that we’re all incrementalists: unless you have a plan for us to wake up to a vegan world tomorrow, we all agree we’re going to get there step by step. We just disagree about which incremental steps to take.
+
+Some abolitionists focus on individual vegan advocacy, delivering a full philosophical argument for animal rights and veganism to one person at a time (or through social media content.) Others support the idea of using incremental campaigns, but only support campaigns that are “abolitionist.” These include banning horse racing and greyhound racing, shutting down vivisection labs and dog farms, opposing the use of animals in carnivals and rodeos, and seeking to ban products like fur and foie gras.
+
+This was my attitude when I started working on what would become two years of public opinion research with my cofounders at Pax Fauna. Ultimately, that research drove the final stake into the heart of my opposition to welfare campaigns.
+
+
+## 2. Update: caring about farmed animals at all is maximally radical
+
+
+The distinction between welfare and abolition is an idiosyncrasy of animal activists. This division does not map well onto the way that the general public reacts to different activist messages.
+
+To win over the public, we have to understand how they think and construct our messages in ways that make sense to them. That was the premise of our research at Pax Fauna. We conducted hundreds of hours of interviews and focus groups with ordinary meat eaters, asking them open-ended questions to draw out their own ways of thinking and talking about violence against animals. Most people have spent a fraction of a percent as much time thinking about animal farming as a typical animal activist. We have forgotten what it was like to be mostly uninformed on this issue.
+
+There were many patterns that came up over and over again in our interviews. One is that most people are completely comfortable sorting animals into arbitrary categories and treating them differently based on those categories. The fact that people do this should come as no surprise to animal activists– pointing it out is one of our favorite strategies. You’re appealing to this every time you argue that pigs and dogs deserve the same treatment.
+
+What was surprising, though, was how the meat eaters we talked to were aware of these categories, and totally at peace with them. Pointing out the illogic didn’t work. They could acknowledge, for instance, that pigs are just as smart as dogs, but this didn’t mean they saw any problem treating them differently. Pigs simply belong to a different category of animals than dogs.
+
+Many other researchers have made this observation. The breakdown goes something like this:
+
+Pets, mainly dogs, cats, and horses but also any individual animal who lives in someone’s home as a pet regardless of species. Pets are family members who deserve to be pampered; hurting or killing them is very bad.
+
+Wild animals inspire awe and admiration, but mostly in the manner of an expensive piece of artwork or a fancy car. Unlike pets, they are seen as completely lacking individuality. Species should be “respected,” but individual members are disposable, though they should be killed humanely. Rare exceptions for individuals who develop unconventional relationships with humans, such as famous zoo residents or the sort of gregarious wild animals found in The Dodo videos.
+
+Vermin such as mice and rats are seen quite differently from other wild animals. Maiming and killing them in any manner is celebrated.
+
+Farmed animals exist to become food. That is their purpose in life. It is a service they perform for us, as is only natural. We should show our appreciation for that service, which takes place when we eat them rather than at any time during their lives or while they are being killed.
+
+The moral logic behind this, which some participants could articulate quite well, is that moral weight is invested in animals according to their relationship with humans. They don’t have intrinsic moral weight, but it can be bestowed on them by a human. Humans have different uses for different categories of animals. Pets provide companionship, while wildlife provide us beauty we can look at in photos or occasionally visit in nature. Pests provide nothing but inconvenience and should be exterminated. And farmed animals provide food.
+
+What matters when deciding how to treat pigs and dogs is not their relative intelligence, but their relationship to humans. This is, of course, circular logic, but the meat-eaters we talked to were totally comfortable with that. To try to sharpen that contradiction, activists often point out that some cultures eat dogs. Faced with this contradiction, the vast majority of respondents in our research resolved it by saying it was OK to eat dogs, rather than accepting it is bad to eat pigs. They did this by appealing to cultural relativism and assuring us they would not presume to judge other people’s cultures– implying that nobody should judge theirs, either.
+
+Like me, you probably see all of this as both irrational and offensive. But this moral lunacy is most people’s baseline when they hear an animal advocacy message. We can’t ignore that fact if we’re going to try to change it.
+
+
+### 2.1 Dog campaigns don’t help chickens
+
+
+What do these categories mean for movement strategy? First, the bad news: campaigning to shift public opinion on pets and wild animals is unlikely to spill over onto farmed animals and vermin.1
+
+I know of some razor-sharp campaigners who are planning to focus their attention for the next few years on shutting down greyhound racetracks and breeding facilities for dogs used in horrific experiments. There are many reasons these campaigns could be worth running. But building momentum for the movement against factory farming is not one of them. It won’t soften the public up for caring about farmed animals, because they don’t think of dogs and farmed animals as being remotely the same cause area.
+
+The activist momentum built for these campaigns won’t translate to factory farm campaigns, either. Activists are not fungible. Most people who get involved in activism have lots of causes they support, but only one or two that light a fire in their hearts and fill them with a burning desire to do whatever it takes to win. I’ve met activists who will show up outside SeaWorld week after week for years on end protesting their enslavement of orca whales, yet haven’t the slightest interest in joining a protest against fur, foie gras, or slaughterhouses. Others will pound the pavement collecting signatures for a ballot initiative to protect a few hundred mountain lions a year from hunters, yet aren’t much interested in the much worse plight of billions of farmed animals, and even eat the same factory farmed meat as everybody else. To be clear, I’m not criticizing these people; I admire them and I’m grateful for their work. But they teach me clearly that activists are not fungible. People who are activated to fight against greyhound racing or testing on beagles will stay home if the same organization pivots to campaigning against factory farms a few years later.
+
+Now the good news: people are so indifferent to farmed animals that even the smallest welfare reforms can be narratively potent.
+
+Prop 12 was the California ballot initiative banning the sale of products from battery cages or gestation crates. After a year of intense campaigning and media coverage featuring endorsements from prominent stars and politicians, 7.5 million people voted in favor of the measure. I would guess that for at least 7 million of them, that was the first action they ever took in their lives consistent with the idea that farmed animals deserve even a shred of moral consideration. That’s a powerful step thanks to the consistency principle, the psychological pressure to act consistently with our past words and actions. That means Prop 12 has without a doubt done more to increase the salience of farmed animal suffering than any of the abolitionist campaigns I’ve ever worked on. Sure enough, I’ve met more people who told me they were turned vegan by seeing a TV ad for the Prop 12 campaign than as a result of vegan street outreach.
+
+But nothing highlights the radicalness of farmed animal welfare campaigns quite like the dramatic backlash to shrimp advocacy that played out on social media this past year. It all started with a surprisingly positive profile of the Shrimp Welfare Project on the Daily Show. The information cofounder Andres Zorilla shares in the video is new even to most animal activists, who’ve probably never considered the lives of the trillions of shrimps farmed every year. Shrimp are by far the most numerous farmed animals, and they are subjected to unique horrors, such as breeding mothers’ having their eyestalks sliced off which induces hyperalgesia. Amazingly, the Daily Show comedians tacitly endorsed the idea of caring about shrimp. But the collective internet had another idea. For weeks, ideological factions that rarely agree on anything united to contemptuously punch down at crustaceans and those who stand up for them.
+
+The idea that shrimps deserve even the slightest moral consideration triggered a more furious backlash than anything I’ve seen in a decade of animal advocacy. If you want to be a radical animal activist, speaking up for shrimps is the reigning champ.
+
+And sure enough, the shrimp controversy seems to have been a textbook case of the kind of positive polarization radical activists live for. That is, when an issue is completely marginalized and ignored, the first step is to draw attention to it, and even a negative backlash can ultimately lead to an increase in salience and support as people are forced to think about the issue for the first time. Just now, a Google search for “backlash to shrimp welfare” yielded almost exclusively positive results arguing in favor of shrimps. The first negative result, all the way down at #9, was so apologetic for arguing against shrimps that the author concluded their post with “I felt so guilty writing this article that I donated $100 to shrimp welfare. Enough, I’m told, to help approximately 150,000 shrimp experience less suffering.”
+
+(Reminder: now is a great time to join that anti-shrimp piece of shit with your own donation to help shrimps! All donations to Shrimpact Week with the code shrimpcastles will be tripled! You’re not going to be outdone by the one anti-shrimp Google result are you???)
+
+
+### 2.2 The meaning of radical: the Tarrow Line
+
+
+I keep using the word radical. Let’s clarify what it means.
+
+The word radical comes from the latin radix, which means root, like the root of a tree. This is delightful. Most people use radical as basically interchangeable with extreme, but radicals love to point out that it really means getting to the root causes. Radical is also the word we use for the building blocks of characters in the Chinese writing system, where each radical has a meaning and the overall character’s meaning is a composite of its radicals.
+
+However, I’m going to throw that aside for a moment and use radical in the colloquial way. When we talk about radical tactics and radical demands in social movements, what we mostly mean is demands that are further from the status quo, and tactics that will shock the public and violate social norms. Shocking the public and violating decorum are key tools in the social movement toolkit: from civil rights sit-ins to suffragettes slashing celebrated paintings, activists have used disruption to force society to process its contradictions.
+
+Let’s return to the conversation I mentioned at the beginning, with an abolitionist activist who thought radical disruptive tactics shouldn’t be paired with moderate welfarists demands. The impetus for our chat was ICAW aggressively crashing the board meeting of an animal abusing corporations. ICAW founder Chrys Liptrot explains that she started the group in reaction to the welfare movement drifting away from radical tactics. But their momentum is inspiring other groups. Just as I was writing this, a friend sent me photos of Animal Equality activists chained outside the entrance to a supermarket that relapsed on its cage-free commitment.
+
+God I love a good lockdown.
+
+Why did my interlocutor object to this? It certainly wasn’t the tactics themselves; this is a person who has organized very aggressive campaigns. He explained that while he wasn’t against welfare campaigns in principle, in his view, radical tactics should be reserved for radical demands.
+
+I think this gets it exactly backwards, and I’ve got receipts to back it up. The whole point of social movements is to challenge cultural norms and change public opinion. One of the few things social movement researchers agree on is that it is easy to alienate the public, at least in the short term, by pairing an overly radical demand with overly radical tactics. This makes intuitive sense: if lots of people agree that the issue you are protesting is bad, they’ll support you in taking radical actions against it. When Black Lives Matter protests erupted in the wake of George Floyd’s murder in 2020, mainstream America found the video so shocking that normally moderate liberals endorsed even violent, destructive riots as a proportionate response.
+
+But if your issue is universally seen as extreme, then aggressive protests will be scorned and dismissed. They also won’t be necessary: the shrimp welfare controversy shows that if your ideas are radical enough, you don’t need to use confrontational tactics to attract attention and force positive polarization. Imagine if instead the Daily Show had been covering a protest where shrimp activists smashed the windows of a grocery store. They wouldn’t have gained sympathy from anyone but the most nihilistic edgelords.
+
+There is an inverse relationship between the radicalness of your cause and the radicalness of the tactics that will help you win public support. That’s what radicalness means. I like to call this the Tarrow Line, after sociologist Sidney Tarrow, a leading scholar on social movements.2 In Tarrow’s words:
+
+The more unpopular or illegible a movement’s claims, the more tightly constrained its tactical repertoire is, because disruptive tactics without legitimacy provoke repression and widespread opposition.
+
+It is precisely when the public is most sympathetic to our demands that we should escalate to the boldest tactics. Using aggressive tactics to win more cage-free policies brings the whole debate one step further in our direction and increases the salience of farmed animal issues while getting the public in the habit of siding with animal activists over animal abusing corporations.
+
+Considering the Tarrow Line, it’s clear that nobody’s goal should be to be the overall most radical (sorry, shrimp team.) Rather, we should all be thinking about being close to the line, unless we have a good reason to cross it. We should tailor the bombacity of our protests to the audacity of our message. I think this lands solidly in favor of raucous protests for cage-free campaigns, along with labs that test on dogs and restaurants that serve foie gras, precisely because the public are already horrified by these when they understand what is happening. And at the same time, we should all want somebody to push the frontier with more radical messages, including veganism and shrimp welfare.
+
+So that’s what radical means. What about welfarist and abolitionist?
+
+
+## 3. Pop quiz: what even counts as abolitionist anyways?
+
+
+“If you don’t know where you are going, any road will get you there.” – Lewis Carroll
+
+Do me a favor, reader. Look at the table below and tell me what rule separates column A from column B:
+
+At first glance, it seems easy enough. The left column is framed in terms of ending an entire industry, while the right column only reforms an industry with incremental improvements to animal welfare.
+
+But is it that simple? Two items in column A create a problem: foie gras and veal. Both are bans on specific inhumane practices masquerading as product bans. Foie gras is a delicacy dreamt up in the twisted minds of the French.3 Its production entails force-feeding ducks and geese, by shoving a metal tube down their throat twice a day. That is the reason animal activists have chosen to single it out, and in practice, foie gras bans work by banning products of forced feeding. They don’t actually stop anyone from farming ducks and geese. Even if they did, people would just end up eating some other animal product instead, so foie gras bans don’t reduce the number of animals in the food system.
+
+All the same could be said of veal. Veal is the flesh of male calves born into the dairy industry and kept in small crates. If veal consumption drops, these calves are likely just killed and disposed of, or turned into pet food.
+
+None of this is to say that foie gras and veal campaigns aren’t worthwhile. Force-feeding is horrendous, and ending it spares animals a uniquely grotesque form of abuse. The same goes for keeping calves alive for a few weeks in tiny crates where they can’t turn around and do nothing but cry for their mothers until they get killed anyway.
+
+Just as importantly, setting any limits on how terribly we can abuse farmed animals challenges the way they are categorized in the imagination of the public, and sets a precedent for using laws and social norms to limit people’s “freedom” to eat tortured animals. There are very good reasons to think that the path to a vegan world will come through incremental steps like this, where more and more of the horrific practices of animal farming are stigmatized and banned.
+
+My question is, why doesn’t the same logic apply to banning battery cages for hens, gestation crates for sows, and the brutal practice of slicing off shrimps’ eyes? Any of these can be used to challenge the categorical subversion of farmed animals’ needs, to establish a precedent that the animals we currently eat have any moral weight whatsoever, and to make the world just a little bit less dark in the meantime.
+
+The whole sorting of abolitionist and welfarist campaigns breaks down even further when we look beyond food animals. Some antivivisection groups have campaigned for laws requiring that dogs used in research be made available for adoption afterwards rather than being killed. Many dogs are killed in the course of experimentation, or killed and dissected to collect full experimental results, but some are still alive when the experiments are over. If all such dogs were put up for adoption, it would do nothing to directly stop all the suffering that takes place in research labs. Like with cage-free eggs, we could even imagine the vivisection industry using adoptions to sanitize their reputation.
+
+Yet I’ve never heard a single abolitionist question this campaign; on the contrary, it is universally celebrated. What’s the difference? Of course we can point to various differences between this and cage-free campaigns; the dogs are eventually freed from the system, though only some of them and only after years of exploitation. I’m doubtful that these should really be all that important on reflection. If I’m being honest, I suspect there’s an element of speciesism operating here for us: seeing the joy of rehomed beagles moves all of us deeply, as it should. Yet we aren’t moved in the same way when we think about what it means for a shrimp to be spared the agony of slowly freezing to death in a slurry of ice water that isn’t cold enough to kill quickly, or the inexplicable terror of having your sensitive eyestalks suddenly amputated, blinding you and consuming your entire world with searing pain for hours or days. Maybe you haven’t watched a shrimp writhing in agony from the procedure; maybe you should.
+
+Once I compared the scale of animals being affected by welfare campaigns vs. by vegan advocacy, I had to accept that welfare campaigns are empirically more radical than veganism. In the first quarter of this century, despite the combined efforts of vegan advocacy, the rate of people identifying as vegan has not measurably increased, and in no country is more than 2%.
+
+Vegan activists know that in theory, when we promote veganism we are calling for a worldwide transformation of the economy and all human cultures. But in practice, these conversations focus much more on the habits of the individual person in front of us, asking them to imagine a world where they, alone among their friends and family, give up familiar and delicious animal products, accepting a great personal cost for almost no visible impact. This puts veganism out of step with a shifting cultural attitude that places the responsibility for harm on governments, corporations, and systems rather than individuals. This could explain why the cultural cachet of veganism appears to be collapsing after a trendy period in the 2010s.
+
+Meanwhile, welfare campaigners are going toe-to-toe with some of the largest corporations in the world and winning, transforming entire global supply chains in the process. In the same quarter century that veganism has stagnated, billions of hens have lived in cage-free farms instead of battery cages thanks to the efforts of welfare campaigners. And in just a few years, the startup Shrimp Welfare Project has spared a similar number of shrimps from some of the worst tortures imaginable. These are small steps, but they are the first precedent we have ever created for changing the food system to benefit animals. Everyone in our movement should be proud of these accomplishments.
+
+
+## 4. Magic trick: it all comes down to timelines
+
+
+“A revolution on a world scale will take a very long time. But it is also possible to recognize that it is already starting to happen.” – David Graeber
+
+It could be that no matter how many animals are affected, battery cages and eyestalk ablation are just too incremental for you to get excited about. Maybe they don’t ignite that burning fire in you. That’s OK: there’s plenty of other work you can do to hasten the demise of factory farming!
+
+But wait: I keep alternating back and forth between talking about “ending factory farming” and “ending animal farming.” I promise I’m not trying to pull a fast one on you. This is a big distinction that probably deserves its own post, but we can’t proceed from here without addressing it, so let’s give it a shot.
+
+First, obligatory disclaimer: I think everyone working on any of the campaigns discussed so far would love to see a fully vegan world. They wouldn’t just push a button for it, they’d light themselves on fire, or light their mother on fire, or light a movie theater full of mothers on fire, if that’s what it took. This isn’t a question about our values or the kind of world we want to see. Rather, it’s a tangle of questions about what we think we can accomplish on what timeline, and the best way to accomplish it.
+
+If you can, please pause for a moment and consider this question:
+
+What do you think is the earliest year we could reasonably expect to see the end of commercial animal farming in your country, if we play our cards right?
+
+[Waits for you to contemplate…]
+
+Write down the number of years between then and now, whether it is 40 years, 4 years, or 400 years.
+
+Now, consider a second question:
+
+What would you be doing differently if you thought your initial answer was wrong by an order of magnitude in either direction?
+
+That is, if your initial answer was 40 years, and a magical genie appeared and told you with certainty that, if you take the right actions, it would be possible to end animal farming in just 4 years? Or, on the other hand, they told you that even if you take the best possible course of actions, it will be impossible to end the slaughter industry in less than 400 years? How would that affect your ideas about movement strategy?
+
+I’ve been putting these two questions to lots of animal advocates recently. They have become my favorite questions to ask. So far, nobody has been all that confused by the second question. Indeed, almost everyone I’ve asked finds it obvious that different strategies would be necessary if you thought you were 4, 40, or 400 years away from ending the slaughter industry.
+
+But the flip side of this isn’t as obvious to us: if you find yourself in an intense strategic disagreement with another animal advocate, there’s a very good chance that it comes down to different intuitions about where we are in the history of the animal freedom movement.
+
+You can probably guess how different people cluster along this timeline. Radical abolitionist activists believe transformative change is possible soon, in just a couple decades or even sooner. If you thought we were at the same point in the movement to end animal farming as, say, the Montgomery Bus Boycott or the Greensboro sit-ins represented in the U.S. civil rights movement, then it would certainly make sense to go for broke and demand big change with bold tactics. But if it turned out we were at a much earlier point in history, there would be different lessons to take from these past movements. People work on welfare campaigns in part because they tend to believe we are a long way from completely ending animal farming, that welfare campaigns are the most genuinely transformational step we can win right now, and that the animals born into farms over the coming decades or centuries deserve the best lives we can get them in the meantime.
+
+In short: welfare campaigners believe we are at the beginning of a long slog where we will have to fight for every inch, while many abolitionists think we’re within reach of a tipping point where the whole system of animal exploitation will come suddenly crashing down.
+
+So who’s right? I wouldn’t presume to tell you. Over time, my own estimate has gone from 40 years to 400 and then back to 4 thanks to the approaching AI tsunami. I’m going to leave AI timelines aside for the rest of this post, because I’ll be publishing a whole separate essay on that in the next couple weeks.
+
+
+### 4.1 Why we should target factory farming
+
+
+Reasonable people can disagree about where we are in the history of the animal rights movement. Because we can’t know for sure, we should hedge our bets, investing some energy in strategies favored by a shorter timeline, and some energy in those favored by a longer timeline.
+
+But there are ways these two sets of approaches could be more compatible. Let’s revisit one of my questions from the introduction:
+
+Does working towards ending factory farming also bring us closer to ending animal farming, or are these goals separate (or even at odds)?
+
+It’s not the same question as timelines, but I think it’s a related question, if for no other reason than that most long-timeline welfare campaigners see it as self evident that ending factory farming should be an intermediate goal, while some short-timeline abolitionists see even this goal as a welfarist corruption of the true animal rights message. In my early years in the movement with Direct Action Everywhere, I passionately criticized any message that focused on “factory farming” as implying that there was an ethical way to husband and slaughter animals. I even led an open rescue at a tiny backyard farm with a few dozen chickens. And I considered it a huge success despite headlines like this one:
+
+Source: https://www.westword.com/news/long-shadow-farm-owners-talk-about-alleged-chicken-theft-by-animal-activists-9498558/
+
+What do you think, reader? Will the whole apparatus of animal exploitation come crashing down at once? Or will we see more gradual progress, with the end of factory farming followed by a period of more humane farming, to be finally rooted out by subsequent generations?
+
+I mentioned before how my own radical abolitionist outlook was informed in part by looking at past social movements. As I saw it in my early days of activism, previous social movements fought to expand the moral circle to include people of all races, genders, and sexual orientations. These movements tended to simmer quietly in the background for decades before exploding into the mainstream in ways that surprised even their most ardent proponents. I believed that if we could recreate the success of the civil rights movement, the marriage equality movement, and the suffragettes, we could reach a tipping point and bring the whole system of speciesism crashing down.
+
+
+### 4.2 Rumours of tipping have been greatly exaggerated
+
+
+Looking back on this viewpoint, I have to admit I’m a bit confused, because I was well aware of how imperfect those movements’ victories had been– indeed, I was trying to do my part by showing up to human rights protests, including Standing Rock and Black Lives Matter, whose message was precisely about the incompleteness of those past cultural struggles.
+
+Earlier this week, I shared a comment from Lewis Bollard, director of farmed animal philanthropy at Coefficient Giving (formerly Open Philanthropy):
+
+I see in the US civil rights movement a movement that for decades clocked up small achievable incremental legal and political wins in service of several larger incremental wins (two key federal laws and several Supreme Court rulings) but that failed in its more radical goals (racial and economic equality). I see in gay marriage a movement that largely sidelined radical calls to end marriage and other oppressive institutions in favor of a disciplined focus on a quite narrow practical goal: marriage equality. And I see the US abolitionists’ radical goals and tactics as largely a failure alongside the UK abolitionists’ more moderate ones, which achieved abolition decades earlier and without a war.
+
+It could be an oversimplification to think of these past movements as achieving sudden tipping points. The U.S. marriage equality movement reached the height of its power from around 2008, when they lost the fight for Prop 8 in California, until 2015 when they achieved nationwide victory through the Supreme Court. It’s tempting to tell a story about the heroic efforts of campaigners in those years, who through enormous effort won the first slate of pro-gay marraige ballot initiatives in 2012, reversing a decade of losses and giving the movement the validation it needed at the ballot box to claim democratic legitimacy to the courts.
+
+But the available data tells a different story. From the time pollsters started measuring attitudes towards gay marriage in 1988, support among U.S. voters increased at a linear rate of 1 to 1.5% per year: a slow, relentless upward slog seemingly unaffected by current events. A closer look makes it clear that, rather than a result of heroic persuasion efforts, this was mainly a generational shift, with conservative older voters dying off and being replaced by their more tolerant grandchildren.
+
+Does that mean all the efforts of gay marriage activists were wasted? There are a few good reasons to think not. First, even if they weren’t responsible for changing anyone’s mind, the marriage equality movement ensured that the law kept pace with public opinion. The Supreme Court made marriage equality the law of the land just three years after polling first showed majority support. Given the wide range of issues that perpetually poll highly yet never turn into law, this outcome was by no means guaranteed. A ten-year delay in legalization would have meant hundreds of thousands of additional gay and lesbian couples denied dignity and legal privileges; getting as much legal progress as possible out of existing public opinion is worth plenty of effort. Legalization has also cemented those gains in public opinion and provided a foundation for further cultural and political changes, such as extending protections to transgender people.
+
+All that aside, something must have driven gen X and millennials to be more accepting of gays and lesbians than their grandparents. You might think that pop cultural exposure from TV shows like Will & Grace and Queer Eye influenced these impressionable youngsters, but that just kicks the can down the road: why did Hollywood TV studios start favorably depicting gay and lesbian couples in the 90s where doing so a few decades earlier would have gotten them blacklisted? Somewhere along this chain of causality, it seems more likely than not that militant gay activism dating back to the Stonewall riots played some important role.
+
+But I digress. There is a simpler way to answer the question at hand:
+
+Is working towards ending factory farming the most direct way to end all animal farming, or are these goals separate?
+
+I doubt that ending factory farming tomorrow would cause every citizen to embrace complete antispeciesism in their hearts, just as ending Jim Crow didn’t end racism. But that’s not the question.
+
+Here’s the rub: there is no alternative to factory farming. More specifically, there is no alternative form of animal farming, not in the 21st century or beyond. Factory farmed meat on the shelves of grocery stores in developed countries will never be replaced by meat from animals that we would call not factory farmed. It will only ever be replaced by animal-free meat alternatives– plant-based, cell-cultured, or otherwise. There’s just not enough world to produce the amount of meat we produce currently in any other way. That’s what factory farming did: it dramatically increased the number of animals we could farm on a finite planet.
+
+Even if you are operating in a moral framework that says that raising an animal on an idyllic free-range farm before slaughtering them is exactly as bad as raising an animal in a factory farm, you should still be focused on ending factory farming, because it is synonymous with decreasing the scale of animal farming by well over 90%, and would give you unbelievable cultural, political, and economic momentum towards finishing off the last 10%.
+
+
+## 5. The goal: cut the enemy
+
+
+Lets finally wrap up by addressing the question we all really care about:
+
+Which campaigns will do the most to hasten the end of factory farming?4
+
+What will it take to destroy the factory farm industry? We will need many things. Some of them are:
+
+Narrative momentum: changing public attitudes towards farmed animals
+
+Organizing momentum / movement capacity: more people power (activists and donors)
+
+Political capital: the ability to credibly threaten politicians that shielding factory farms will hurt their re-election
+
+Economic momentum: weakening the industry’s ability to defend itself, and growing alternatives that can actually absorb the demand.
+
+By this point, I think you get my basic argument: campaigns that target animals from categories other than “farmed animals” will not build momentum for the movement against factory farming.
+
+Campaigns targeting cruelty against dogs, horses, and orcas will not generate increased sympathy for farmed animals. They may bring out activists, but those activists won’t easily be pivoted to campaigning against factory farming, and it would be better to recruit activists directly into campaigns concerning farmed animals. These campaigns will not do anything to drive opposition to factory farming into the political mainstream; indeed, concern for dogs and horses is already politically mainstream, a fact which is doing nothing to benefit farmed animals. And finally, the factory farming industry has no important economic ties to industries that exploit animals for research or entertainment, and abolishing those industries would not weaken the economic position of factory farm corporations.
+
+Animal Rising in the UK recently gathered some experimental confirmation of this dynamic. After years campaigning against factory farming with a particular focus on climate harm, AR decided to try to activate more supporters using mainstream animal rights campaigns. In 2022 and 2023, they focused their efforts on campaigning against a breeding facility for beagles used in research and on disrupting the Grand National horse race. Both campaigns attracted massive media attention and droves of new signups from people interested in becoming activists. However, AR was unable to redirect either of these back to campaigning against factory farming. Media coverage focused obstinately on the subject animals, and activists who were drawn in by love of dogs and horses just weren’t interested in fighting for pigs and chickens, not to mention shrimps.
+
+Fur campaigns, on the other hand, fit well within the movement against factory farming. This might seem obvious, but to me it wasn’t always so. I’ve been persuaded both logically and empirically.
+
+Logically, fur animals are farmed animals. We don’t eat them, but we still consume them by wearing their skin. They live in factory farms essentially similar to meat factory farms. So it makes sense that both activists and the general public group them in with other farmed animals.
+
+Empirically, among non-food-related animal rights campaigns, fur has by far the largest conversion rate of activists to campaigns targeting factory farming. (Maybe that’s phrased wrong; fur is factory farming.) National activist organizations in European countries like Anima International and Humánny Pokrok have had tremendous success building movements around banning fur farming, then redirecting that momentum against battery cages. The Coalition to Abolish the Fur Trade is deeply integrated with the vegan activist movement in a way other non-food single issue groups are not. All of that is probably true for a reason.
+
+Speaking of CAFT, I implied earlier that abolitionist campaigners are more likely to think that a tipping point will bring the whole industry crashing down suddenly. At this point in this essay, I don’t even know anymore who is abolitionist or not, but I think that comment could give the wrong impression so here’s a clarification. The leaders of CAFT argue for focusing on the fur industry precisely because they believe that bringing down the whole meat industry is unrealistic given our movement’s current capacity. The fur industry, meanwhile, is orders of magnitude smaller and has seen its market collapse in recent decades. It is tottering and weak. If we can’t take down the fur industry in its current state, CAFT argues, we have no hope of beating the meat industry. And better still, we can use the fight against fur to gain valuable experience, momentum, and currency with politicians and the public. Foie gras campaigners make a similar argument about peeling off the handful of foie gras farms and targeting them in isolation.
+
+So: animal activists who are sold on the idea of using winnable incremental campaigns to build up a movement to end factory farming should run campaigns targeting factory farming. (Did I really need a 6,000-word post to argue that?) That includes force-feeding, battery cages, gestation crates, shrimp eyestalk ablation, and countless other particularly horrific abuses. It includes fur, foie gras, and any other severable chunk of the industry that can be isolated and destroyed. It includes fighting to shut down individual factory farms and slaughterhouses, or stopping them from being built in the first place. It includes documentaries and outreach insofar as they can be shown to actually polarize the public against factory farming. And it includes getting schools, hospitals, grocers, and food service companies to take the simple measures that would decrease meat demand on a massive scale even without restricting choices.
+
+The legendary Japanese swordsman Miyamoto Musashi wrote:
+
+The primary thing when you take a sword in your hands is your intention to cut the enemy, whatever the means. Whenever you parry, hit, spring, strike or touch the enemy’s cutting sword, you must cut the enemy in the same movement. It is essential to attain this. If you think only of hitting, springing, striking or touching the enemy, you will not be able to actually cut him. More than anything, you must be thinking of carrying your movement through to cutting him.
+
+We’re not here to perform the role of animal activists, so that when it’s all over we can say we did. We’re here to cut the enemy.5 Try not to forget that.
+
+Swim on,
+
+Shrimpcastles
+
+Mantras:
+
+Campaigns for pets and wild animals are unlikely to spill over onto farmed animals and vermin.
+
+People are so indifferent to farmed animals that even the smallest welfare reforms can be narratively potent.
+
+It is precisely when the public is most sympathetic to our demands that we should escalate to the boldest tactics.
+
+The primary thing when you take a sword in your hands is your intention to cut the enemy, whatever the means.
+
+If you found this essay useful, pay it forward by sharing it with another activist.
+
+Share
+
+1
+
+For me, a term of endearment.
+
+2
+
+If the Tarrow Line looks dangerously like a “law of social movements” which I spent the previous post arguing do not exist, well, you caught me. Don’t take the line too literally! Trust experimentation above all.
+
+3
+
+Sickos.
+
+4
+
+Given the unparalleled scale and horrors of factory farming, I’m taking for granted that if you could choose to bring any one animal-exploiting industry down, it would be this one. If you’re more worked up about aquariums, by all means, go campaign against aquariums.
+
+5
+
+If “cutting the enemy” reads as overly violent, I’ve borrowed the metaphor from Eliezer Yudkowsky who originally used it to talk about rational thinking, where “cutting the enemy” means actually getting at the truth rather than just performing thoughtfulness. Here “cutting the enemy” means weakening the factory farm industry. Billions of animals are dying every day and I don’t think war metaphors are inappropriate, but it’s true that they aren’t always the most helpful. In this case I think it is.

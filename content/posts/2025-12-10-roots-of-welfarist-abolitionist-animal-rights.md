@@ -1,29 +1,202 @@
 ---
-title: "How 17th-Century Theology Hijacked an Animal Rights Debate"
+title: "The Roots of the Welfarist-Abolitionist Debate in Animal Rights"
 date: 2025-12-10
 draft: false
 ---
 
-This essay traces the philosophical roots of the abolitionist versus welfarist divide in animal advocacy back to John Milton's *Paradise Lost* and Protestant theology. The author argues that the prioritization of freedom over welfare—central to abolitionist opposition to cage-free campaigns—originates from Milton's theological solution to the problem of evil, which then influenced liberal political philosophy through thinkers like John Locke.
+For at least ten years, the farmed animal advocacy movement has been persistently divided over cage-free campaigns. Cage-free acts as a Rorschach test; where half the movement sees the most successful animal advocacy strategy ever discovered, affecting more animals than all other animal rights campaigns combined, the other half sees a betrayal of the entire notion of animal rights and a strategic blunder setting the movement back decades.
 
-## The Theological Foundation
+When I first got involved, I was staunchly on the abolitionist side of this debate. Over time, I’ve become less certain. This essay (my shortest one yet!) presents a surprising argument for the origin of this debate. At least, I think you’ll agree it’s surprising, if I can convince you it holds any truth. Understanding this won’t immediately resolve the dispute, but it can help us stop talking past each other. It may have limited relevance outside Western countries, for reasons that will become clear shortly.
 
-Milton's God permits human suffering because freedom is more valuable than safety. As the author explains, God justifies creating humans destined for damnation by asserting: "I made him just and right, Sufficient to have stood, though free to fall."
+This is pretty different from my usual posts. I had more fun writing it but if it’s not your thing, just skip it.
 
-## Cultural Inheritance
 
-The author demonstrates that Protestant cultures—particularly Anglophone societies—disproportionately prioritize liberty over security compared to non-Protestant societies. Survey data shows countries shaped by Confucianism, Catholicism, or Orthodoxy explicitly choose "order" and "security" over "freedom" and "self-expression."
+## 1. A Book of Revelations
 
-## The Animal Activism Connection
 
-The abolitionist resistance to welfare reforms like cage-free campaigns mirrors this theological preference. The author notes many abolitionists unconsciously inherited this value hierarchy while shedding the religious framework that created it.
+“Paradise Lost is one of the books which the reader admires and lays down, and forgets to take up again. None ever wished it longer than it is.” - Samuel Johnson, who singlehandedly wrote the first modern dictionary, i.e. not exactly a bibliophilic lightweight
 
-## The Reframing
+Some time ago, I was bored and decided to pull a book off the shelf. My eyes grabbed onto a beat-up old copy of John Milton’s Paradise Lost. I had picked it up years earlier from a box of free stuff on the street in front of someone’s house, and it had sat untouched on the bookshelf ever since. On both occasions, I knew nothing about the book other than that it was considered a classic, and I sometimes like to read classics. A rather pretentious music theory teacher I had in college told the class one day it was his favorite book. That turned out to be an even more pretentious thing to say than I had realized at the time, as I quickly discovered upon actually attempting to read it.
 
-Crucially, the author argues this is a **false dichotomy**. Cage-free farming offers animals more freedom *and* more welfare—not a tradeoff between them. Different chickens occupy each system; no individual experiences transition from caged to free. The actual choice is between "more of both or less of both."
+Paradise Lost is a dense brick of Elizabethan prose-poetry. It’s what you’d expect if someone raised a child on a linguistic diet of exclusively Shakespearean oration, which sources suggest may be exactly what happened. As far as I can tell, it spends 10,000 lines of verse retelling the first few pages of the Bible. I didn’t finish reading it– I only got through about book the fifth out of twelve. I’ve also never read most of the Bible, so I’m fairly proud of myself for getting that far. See, I too have a pretentious streak when it comes to literature. My house currently contains three visibly-placed copies of Infinite Jest. (Confession: only two of them belong to me.) But reading the first few lines of Paradise Lost gave me a headache, which meant I had no choice but to read on– my self image was at stake.
 
-**Key statement:** "Cage-free isn't a choice between freedom and welfare. It is a choice between more of both or less of both."
+Many headaches later, but before I eventually gave up, it started to dawn on me that Paradise Lost is not just any old biblical fan fiction. It is a deeply political interpretation of Christianity, even a reinterpretation. Amidst the poetic showmanship, Milton grapples with some of the sharpest contradictions in Christian and European thought at the time of the Protestant Reformation, such as between egalitarianism and patriarchy. (Relative to contemporaries like Descartes, it’s fair to describe his depiction of Eve as a proto-feminist, or at least a proto-proto-feminist.)
 
-## Conclusion
+The most salient tension in the story, however, is what many Christians and non-Christians alike would agree is the most urgent contradiction in the faith. Christians believe God is both all-powerful and benevolent. Yet the world is full of unspeakable suffering. Why would God allow all this to happen? Over the centuries, Christian theologians have spilled barrels of ink attempting to reconcile these three facts: 1) God is benevolent, 2) God is all-powerful, and 3) the world is full of suffering. It is known as the inconsistent triad, the Epicurean paradox, or simply the problem of evil.
 
-The author, formerly abolitionist herself, contends that cage-free campaigns represent "the greatest harm reduction in human history" and should strengthen, not undermine, confidence in achieving further progress.
+In Paradise Lost, Milton offered a new answer. In doing so, he set in motion a revolution in political thought that we are still living through. See, more than a proto-proto-feminist, Milton was a proto-liberal. He wrote one of the most influential tracts denouncing the English monarchy, establishing the political basis for republicanism and, eventually, democracy and the enlightenment. His writing was beloved of liberal philosophers from Locke all the way through the framers of the U.S. constitution. And in a significant way, it all started with his answer to the problem of evil.
+
+So, what was Milton’s answer? Let’s set the scene.
+
+High on a throne of royal state, which far
+Outshone the wealth of Ormus and of Ind,
+Or where the gorgeous East with richest hand
+Showers on her kings barbaric pearl and gold,
+Sat He, enthroned in light of purest Heaven.
+
+(I promise not to subject you to too much of that, but I need you to know the price I paid to bring you this essay.)
+
+The place is Heaven. God is sitting on his throne, with his son Jesus on a smaller throne beside him. The date is approximately early af. Down on Earth, Adam and Eve are still traipsing about in the garden of Eden. But trouble is afoot: Satan, recently cast out of heaven for daring to question God’s authority, is on his way to Earth, to exact revenge by corrupting God’s favorite new toys. By getting the humans to disobey God’s arbitrary orders not to eat from a certain tree, Satan plans to make God destroy paradise and damn countless generations of humanity to join him in hell for an eternity of misery.
+
+God, being all-knowing, is of course aware of this. In fact, he knew it would happen when he created humans in the first place. He knew that if he gave humans free will, then Satan would use it to corrupt them. But it would be their fault, because the cost of free will is responsibility for your actions. He explains this to an assembly of angels, who understandably react with horror. Jesus, who hasn’t yet been instantiated as a human, wants to ask wtf. First, he has to preface his question with some sycophantic praise (remember, all these angels just saw what happens if you cross the big guy.)
+
+O Father, gracious was that word which clos’d
+Thy sov’reign sentence, that Man should find grace;
+For which both Heav’n and Earth shall high extol
+Thy praises, with th’ innumerable sound
+Of hymns and sacred songs: wherewith Thy throne
+Encompass’d shall resound thee ever blest.
+Yet what if Man by his own actions fell,
+and thou didst permit him, for Thy justice?
+Wouldst Thou Thyself abolish Thy own work,
+For man’s revolt? shall he be thus condemned,
+And all his progeny without redemption?
+
+Translation: are you really just going to create humans, then turn around and damn them all to an eternity in hell because of a flaw that you knowingly put in them when you created them?
+
+So comes God’s answer, which is really Milton’s answer: Yes. I created my beloved humans knowing they would suffer an eternity in hell, because freedom is more important than wellbeing.
+
+I made him just and right,
+Sufficient to have stood, though free to fall.
+
+With these words, Milton offered a more theologically sound resolution of the problem of evil than had ever come before, and ushered in a new era of moral and political thought. God cares more about your freedom than your safety. God is good, but good means that he wants you to be free more than he wants you to be happy. If freedom means you screw up your life by showing insufficient piety and get damned, so be it.
+
+So, why does Milton’s God care so much that you are free, rather than, say, happy?
+
+I made him just and right,
+Sufficient to have stood, though free to fall.
+Such I created all th’ ethereal powers
+And spirits, both them who stood and them who fail’d;
+Freely they stood who stood, and fell who fell.
+Not free, what proof could they have giv’n sincere
+Of true allegiance, constant faith or love,
+Where only what they needs must do appear’d,
+Not what they would?
+
+If God’s creations were not free, they couldn’t be free to love him. Not really. Their love for him would be hollow. You might feel the same way about an AI companion trained to treat you affectionately no matter what; real love requires a choice, and a real choice means sometimes they make the opposite choice.
+
+If Milton’s God sounds to you like a bit of a spoiled brat, that makes two of us. Scratch that: he’s not a bit of a spoiled brat. He’s got to be the most spoiled and brattiest character in all of literature. He literally creates an entire species knowing that, by their nature, most of them will be damned to suffer in hell for all eternity. And he does it all so that a few of them will show him genuine love, by which he really means slavish loyalty motivated in large part by terror.
+
+Now you might point out, reader, that this pretty much sounds like what humans do to the animals we farm. Which, yeah, pretty much. But here’s the difference, and this is where it gets really interesting: the way he justifies all of it is by saying that freedom is more important than wellbeing, safety, or happiness– a position shared not with factory farmers, but with abolitionist animal activists.
+
+John Moultin’
+
+Abolitionist activists who oppose cage-free campaigns and other incremental welfare reforms argue that demanding anything less than liberation is selling animals short. Pragmatists respond that such campaigns make small but meaningful improvements in animals’ lives while bringing us incrementally closer to more transformative change. I’ve argued before that it’s a mistake to frame this dispute as radical vs. incrementalist. Everyone is an incrementalist, unless you have a plan to wake up in a vegan world tomorrow. We’re all just focusing on different increments.
+
+But that doesn’t explain why abolitionists are so apathetic towards welfare reforms. Why is it that abolitionists oppose increments that make life a bit better for the animals still trapped in the system? Most, I think, worry that focusing on improving wellbeing might lead us or our audience to forget about the real prize: freedom. But this tendency to draw a hard distinction between wellbeing and freedom is the endpoint of a direct line connecting modern abolitionists all the way back to Elizabethan Protestantism.
+
+
+## 2. Protestant cultures are really weird
+
+
+“Puritanism is the haunting fear that someone, somewhere, may be happy.” – H. L. Mencken
+
+So, we are examining the notion that freedom is more important than happiness, security, and wellbeing. In particular, I’m making three claims about this notion: first, that it underpins abolitionist animal activists’ opposition to welfare campaigns. Second, it was born out of Christian theology, specifically liberal protestantism. And third, it resonates with modern activists who grew up in cultures that are still deeply shaped by a Protestant worldview, even if we or our parents never set foot in a church.
+
+I’ve presented some argument for the second point, but let’s test it a bit further. My story says there is a direct line from Milton’s Protestant theology to a certain strain of abolitionist philosophy today. It goes like this: following on Milton, John Locke, arguably the enlightenment’s most influential philosopher, presented the first-ever theory of inalienable rights. It’s hard to imagine today, but before Locke, nobody had articulated the idea of individuals possessing rights that everyone else is obligated to respect. Of course, in Locke’s view, these rights were bestowed by God, and in practice only applied to Christian men. Locke placed Milton’s liberty at the very center of his theory of rights: life, liberty, and property. Locke’s theory was quoted directly a century later in the constitution of the United States, followed by democratic constitutions across the former British Empire. Protestant (especially Quaker) activists in New England seized on Locke’s theory as the foundation of a movement to abolish slavery, beginning a centuries-long process of expanding natural rights to cover humans of all races, creeds, and genders– and, we hope, nonhuman animals.
+
+Is it true that this hunger for the right to liberty, even over safety, was born out of Christianity? The idea is certainly widespread in societies founded on liberal Protestantism. One of the most celebrated quips in American history is Patrick Henry’s revolutionary call to arms, “Give me liberty or give me death!” Benjamin Franklin, expanding on the idea further, said “Those who would give up Essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.” (That is, people who aren’t willing to risk death to secure liberties deserve to… just die anyway? Actively be killed? Not clear, Benny.) Today, Americans’ preference for freedom over welfare is legible in conservative opposition to high taxes and the “welfare state,” or even the idea that social welfare programs harm recipients by undermining their self-reliance, i.e. their independence, i.e. their freedom.
+
+But maybe it isn’t exclusively Christian. Perhaps, instead, it is a universally human instinct. To test that, we could look at societies where Christianity was never the dominant philosophy. Sure enough, we see in countries from China and Vietnam to Singapore and South Korea that modern humans outside Christendom are much more willing to trade social and civic freedoms for physical and economic security. Under communist and non-communist governments alike, the publics in East and South Asian countries have accepted social contracts that surrender liberties Westerners see as non-negotiable in exchange for security guarantees. International surveys consistently find high support among East Asians for further expanding already broad surveillance programs and harsh criminal punishment regimes. In the World Values Survey, Asian publics shaped by a Confucian tradition explicitly listed “order” and “security” as taking precedence over “freedom” and “self-expression,” in contrast with historically Protestant nations.
+
+What about Catholic and Orthodox Christian countries? The reason it took 1600 years after biblical times for someone to articulate Milton’s solution to the problem of evil is that his celebration of free will was incompatible with the heavy-handed paternalism of the Catholic and Orthodox churches.1 Today, non-Protestant Christian societies reflect a more conservative attitude towards the authority of the state, the family, or the Church itself, and their publics agree with Confucians rather than Protestants when asked to weigh security and freedom (what WVS calls survival vs. self-expression values.)
+
+A visualization of these survey responses makes it clear just how weird the inheritors of the Protestant tradition are. The Protestant world, including most of Anglophonia (the English-speaking world), looks like a funky little tumor growing off the rest of humanity, values-wise.
+
+Never tell a Swede what to do unless you’re prepared to fight them over it.
+
+Notwithstanding all our fanfare about liberty or death, the U.S. is actually the least extreme among this group in terms of our preference for freedom over security. That’s no surprise given the large fraction of America’s population that has immigrated from every corner of the world. If anything, it’s surprising that we’re not further to the center. I think this demonstrates that the dominant cultural ethos of the U.S., the one to which immigrants gradually assimilate, is thoroughly Protestant. The overtly religious part has largely been stripped out, but don’t let that distract you. We who grew up in America, Britain, Canada, or Australia, not to mention Protestant countries on the European mainland, have been inextricably shaped by Protestant theology, regardless of whether or not we ever attended a Church service.
+
+Philosopher George Santayana (born in Catholic Spain, but a secular guy) observed how deeply American culture was shaped well into modern times by the Protestantism of its founders, even as the formal religious parts disappeared (emphasis added):
+
+“[The American mind] embodied, in a radical form, the spirit of Protestantism as distinguished from its inherited doctrines; it was autonomous, undismayed, calmly revolutionary; it felt that Will was deeper than Intellect; it focussed everything here and now, and asked all things to show their credentials at the bar of the young self, and to prove their value for this latest born moment. These things are truly American…”
+
+All this doesn’t flow from just one poet. Milton was a product of his time. He grew up during the English Reformation, when England evicted the Catholic church and adopted Protestantism, with its decentralized church structure and its direct path to God for each believer. As a young adult, he joined Parliamentarians in a power struggle against the crown that boiled over into civil war. He was surrounded by revolutionaries drunk on heady thoughts of liberty. Liberalism was an idea whose time had come, but in Milton’s time it was an unmistakably Christian idea.
+
+
+## 3. So who’s right?
+
+
+“Total liberty for wolves is death to the lambs.” – Isaiah Berlin
+
+You’ve probably detected that I am not a Christian. I also don’t have any distaste for Christian thinkers. There are plenty of outstandingly smart Christians both past and present, and I don’t think it counts as points against an idea that it originated with Christianity.
+
+At the same time, tracing the origin of a belief I hold helps me to see it and scrutinize it a bit more impartially. This is especially true for beliefs that I seem to have passively absorbed from the culture around me.
+
+The question of whether to optimize the world for freedom or wellbeing has big ramifications. When we’re dealing with an individual person, it’s relatively easy to respect their autonomy, even if it means, for example, painfully watching a loved one destroy their life through addiction. But societies involve fundamental tradeoffs between liberty and security. Taxation, civil rights laws, and compulsory schooling are all impositions on the freedom of individuals that we accept in the name of wellbeing. For modern societies, the question is not whether to do this, but how to strike the balance.
+
+This has been a hot topic in American political discourse lately, driven by our sharpening economic competition with China. Kaiser Kuo, host of the Sinica podcast, recently observed that every faction of American politics in 2025 seems to find something to admire about China. For liberal fans of Ezra Klein’s Abundance agenda, it is China’s relentless drive to build stuff; for Bernie progressives, the primacy of state power over corporate power and its ability to bring billionaires to heel; for MAGA, the impression of a culturally homogenous ethnostate. Americans, it seems, are increasingly asking whether trading in some liberties might result in a government or society better able to deliver the goods.
+
+Pro-market liberals argue that their liberty-heavy balance actually creates the most prosperity in the long run. Kelsey Piper, an avowed defender of the liberal establishment, typified this view in a recent interview about how China’s flashy economic successes are making America look bad:
+
+It is outrageous how long it takes [in America] to build a new bridge or whatever. But there are also lots of bridges you use all the time. They’re there and they work and they’ve been expanded, they’ve been made safer, they’ve been decongested. I think the list of things you want and haven’t gotten is actually pretty small compared to the things that you want and get in our society.
+
+America is way, way richer than China, and I think this is in significant part because Americans consistently reward politicians who deliver economic growth and punish politicians who don’t deliver economic growth. America has areas where the cost of living is really, really low, that are still good places to live. My impression is that in China, there are cities that you really want to live in if you possibly can, and that people can’t all move to those cities because they’re not allowed to all move to those cities. Whereas in America, everybody, if you can afford to move somewhere, you can. I could move to New York City tomorrow if I wanted to. That’s not something I think about very much as an important freedom I have, but I would give up quite a lot to get it.
+
+On a gut level, I share Kelsey’s gratitude for basic freedoms of expression and movement. But I think her argument here is flawed. China’s current system of government was only instituted in 1949. Its modern economic growth spurt only began in earnest after the disastrous Mao era ended in 1976. In those 5 decades, China’s economy has exploded from less than 20% the size of the U.S. to more than 130%. The human story of that economic growth is 1 billion people lifted out of extreme poverty, the creation of the largest middle class in the world, and anecdotes from shocked American tourists who feel like they’ve stepped into The Jetsons. Wealth inequality in China is decreasing just as it skyrockets in the West. In survey after survey, more than 70% of Chinese citizens say their government is working for them and improving their lives, vs. less than 30% in the U.S.
+
+Freedom and wellbeing sometimes trade off against each other. There isn’t one straightforwardly correct answer about how to balance them. I prefer it when defenders of liberalism acknowledge this and bite the bullet anyway. It can still be a fair position to prioritize liberty.
+
+
+## 4. Back to animals
+
+
+“I am a man of fixed and unbending principles, the first of which is to be flexible at all times.” – Everett Dirksen
+
+Animal activists pine for a world where humans never kill and eat animals. We’re a long way from there. When we argue about how to get here from there, it’s partly a strategic argument about what will work, and partly a values argument about what tradeoffs we should accept along the way. I’m worried that we often confuse that difference.
+
+If you’ve stuck with me this far, reader, then consider this proposal:
+
+Abolitionist opposition to cage-free campaigns is based on a moral framework that placed freedom over welfare in order to resolve a dilemma in Christian theology.
+
+Most of us have discarded the theology that created the problem. But we’ve kept the solution, without fully realizing it.
+
+If we scrutinize these values, we can recognize that freedom and welfare are not always contradictory. And we’ll conclude that cage-free campaigns and other welfare reforms are perfectly consistent with our goal of stopping animal abuse.
+
+Freedom and welfare do sometimes involve tradeoffs, such as when you’re a nation-state or a narcissistic deity embarking on a cosmic vanity project. But sometimes, they’re perfectly compatible.
+
+For roughly my first 8 years as an animal activist, I hated cage-free campaigns. I thought of myself as a grassroots, abolitionist activist, and I saw the professionalized welfarist organizations as no less my enemy than the industry itself. I didn’t just think cage-free campaigns were bad strategy; that they would make the public feel better about exploiting animals and thus make it harder to achieve a fully vegan world. I also thought it was morally wrong or cowardly to ask for such an incremental step.
+
+But in defense of those two beliefs, I convinced myself of something further: that being in a cage-free farm was not even better for animals, and was maybe worse. This was a difficult position to defend, because it contravened both common sense and available data. I remember a time just within the last couple years where I argued that suffering is all relative, and so if all you’ve ever known is life on a cage-free farm and it still sucks, you’ll be exactly as miserable as someone who has spent their entire life packed into a broom closet with five other people, aka a battery cage.
+
+You might recognize this as an example of both the soldier mindset and of dry rather than visceral thinking (from The Bitter Lesson for Animal Activists). When I said this, I was not really imagining how it would feel to spend an entire year packed into a crowded closet. Try for a moment to really imagine it with me. If I focus, I think I can catch a glimpse of the frantic, crushing desperation to get out: it’s all I can think about to get out of this fucking cage. And I can taste the enormous relief it would be to get out of the cage even if it didn’t mean escaping the farm entirely.
+
+Looking back, my unwillingness to acknowledge the real quality of life improvement was a clear case of motivated reasoning. But why? Why did I feel I had to defend against life on a cage-free farm being even slightly better for chickens? I think it’s because I saw welfare as a distraction from freedom. But in doing so, was I projecting my weird, Protestant values onto animals?
+
+The divide between abolitionists and welfarists has been most intense in Protestant countries. (See footnote for important caveat.2) Outside the anglosphere, a single organization will often simultaneously pursue cage-free campaigns and vegan outreach; it is mostly only English-speakers who see the two strategies as at odds.
+
+Most humans across the world today, and certainly throughout history, have been consciously willing to sacrifice substantial freedoms for safety and comfort. It seems reasonable to think that farmed animals might make the same choice. But that’s not really the choice we are making when deciding whether or not to pursue incremental welfare reforms. In factory farms, animals have neither freedom nor comfort. And our goal as abolitionists is not to give them either. When we succeed, there won’t be tens of billions of genetically modified chickens living in sanctuaries. Our goal is to stop these animals from existing in the first place.
+
+In case you haven’t heard, we’re not succeeding. The number of animals in factory farms across the world has grown every single year. Nothing we are doing shows any sign of reversing that trend.
+
+The end of factory farming is not within sight. One way or another, it will end eventually; nothing is permanent. We’re trying to end it sooner; is that really at odds with trying to make it a bit less terrible along the way?
+
+Arguing against cage-free campaigns, it’s common for abolitionists to say that if we were in the animal’s position, we wouldn’t be content with people fighting on our behalf for bigger cages. But again, this isn’t the choice we are facing. Entirely different breeds of chickens are used in cage-free vs battery caged farming. No individual chicken will ever experience the transition from caged to cage-free farming. While we work to end factory farming, the choice facing animals is not whether to live in a cage-free farm or to be free.3 The choice is between a battery cage and something a bit less bad.
+
+This isn’t a choice between freedom and welfare. It is a choice between more of both or less of both.
+
+Cage-free farms offer animals more welfare because they offer more freedom. Freedom is not black and white; it comes in degrees. American citizens have freedoms of expression that some other countries don’t have, but we still have to pay taxes. A chicken in a cage-free farm is much less free than the citizens of the most repressive countries, but the freedom to spread their wings and walk around is one their sisters in battery cages can only dream of.
+
+Corporate welfare campaigns have granted that precious touch of freedom to billions of hens. This is the most profound thing the animal advocacy movement has ever accomplished, given that we have not yet caused any increase in the number of vegans or reduction in the number of animals slaughtered. Progress towards cage-free farming is arguably the greatest harm reduction in human history. Every animal activist should be proud of it. And it’s the best reason we have to think that more and better wins are within reach.
+
+Build on,
+
+Sandcastles
+
+Mantra: Cage-free isn’t a choice between freedom and welfare. It is a choice between more of both or less of both.
+
+If you found this essay useful, the best way to help is to share it with another activist.
+
+Share
+
+1
+
+After publishing, I got some helpful pushback on this claim. There were in fact many Catholic theologians who articulated answers to the problem of evil based on God’s valuing free will. Milton’s was different, but the differences were subtle enough. This points to the fact that Milton’s liberalism caught on not because it was an entirely new idea, but because of larger historical forces that rewarded experiments with liberal democracy and market capitalism in Northwestern European more than other geographies.
+
+2
+
+One reviewer from India told me the divide is quite sharp there as well. I am mostly ignorant on this so I’m not going to say much. However, he said that as someone who has a leg in both welfare and abolitionist campaigns, he believes opposition to welfare also has religious roots in India. In that case, it comes from the spiritual legacy of asceticism and self-purification. I find it fascinating to think two very different religious traditions wound up pointing in the same direction on this issue for different reasons.
+
+3
+
+OK, there will be a few thousand animals rescued from factory farms and taken to sanctuaries, not even one percent of one percent of one percent.

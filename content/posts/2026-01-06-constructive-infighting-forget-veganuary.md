@@ -1,49 +1,431 @@
 ---
-title: "Constructive Infighting"
+title: "Constructive Infighting: Forget Veganuary"
 date: 2026-01-06
 draft: false
 ---
 
-This article examines two strategic disagreements within the animal advocacy movement that exemplified productive conflict: Farmkind's "Forget Veganuary" campaign and Animal Rising's challenge to the RSPCA's welfare certification scheme.
+Thus begins a double feature inspired by the recent firestorm of debate over Farmkind’s anti-Veganuary campaign. This post brings readers from across the world up to speed on the best arguments from both sides, along with a related controversy from the year prior. In part 2, I share my own thoughts on “Forget Veganuary” and on the troubled relationship between animal welfare and veganism.
 
-## Case 1: Farmkind's Offsetting Strategy
+One of my most edgy and unique opinions about the animal rights movement is that Infighting Is Bad™. Whether it’s cancelling people for having the wrong political views or carving the movement up into illusory factions like welfarist vs. abolitionist or grassroots vs. professional, I think the movement wastes a lot of energy on pointless infighting.
 
-In late December 2025, former Veganuary advocate Toni Vernilli launched a campaign suggesting meat-eaters could offset their consumption through donations rather than dietary change. The forgetveganuary.com site featured a calculator determining monthly giving amounts to effective animal charities.
+Yet even I must admit that not all infighting is pointless. In some instances, our movement has suffered from a lack of substantive strategic debates. For years, as abolitionists and pragmatists feuded over cage-free campaigns, there was no forum for systematic public debate between the leaders of each faction. That left grunts like me stewing in resentment, unable to properly evaluate the other side’s position. (When I finally got the chance, I found it surprisingly persuasive.)
 
-**Key Arguments Supporting the Approach:**
-- Targets audiences resistant to veganism messaging
-- Research suggests meat-eaters find donations less difficult than diet change
-- Leverages trusted messengers (competitive eaters) to reach entrenched consumers
-- Generates mainstream media coverage for animal cause
+So today, we’re going to learn about two master classes in constructive infighting, two campaigns that forced the movement to wrestle with big strategic questions. Both case studies came out of the London activist scene, cementing its status as the top animal rights city in the world.1
 
-**Primary Criticisms:**
-- Undermines veganism's role as a costly signal binding the movement
-- May discourage rather than encourage dietary reduction
-- Lacks evidence that offsetting won't become excuse for continued consumption
-- Potentially misleading positioning as "cooperative" while explicitly attacking veganism
+Each story is rich with lessons, but a few commonalities jump out right from the get-go:
 
-**Notable Finding:** The campaign was strategically designed with Veganuary's knowledge, creating coordinated media attention rather than genuine conflict.
+Each debate was sparked by an actual campaign– that is, people weren’t just running their mouths on social media, they were doing something bold in the real world.
 
-## Case 2: Animal Rising vs. RSPCA
+In each case, proponents and opponents maintained an open line of communication and engaged in vigorous public debate, preserving friendships without pulling any punches in their criticisms.
 
-Animal Rising campaigned against the RSPCA's "Assured" welfare certification for factory farms, arguing it legitimizes industrial animal agriculture through the UK's most trusted animal organization.
+While some observers changed their minds, all this public debate failed to clearly resolve the question one way or the other. But it pushed both sides to gather better evidence and become more rigorous versions of themselves.
 
-**Welfare Argument:**
-Animal Rising's investigations documented repeated standard violations on certified farms, though some improvements exist compared to uncertified operations.
+I know what you all came here for, so I’ll start with the more recent story first, and we’ll see in the course of that how it couldn’t avoid bringing up an old wound.
 
-**Strategic Trade-offs:**
-- RSPCA Assured prevents worst practices (battery cages, gestation crates)
-- Certification might increase consumption by providing moral permission
-- Removing the scheme could transfer farms to weaker Red Tractor standards
-- Campaign successfully pressured stronger enforcement mechanisms
+Case #1: Farmkind says VEGANUARY IS FUCKING LAME
 
-## Shared Lessons
+On December 27, 2025, the movement awoke from its post-Christmas reverie to stories in right-wing British tabloids with headlines like “Veganuary champion quits to run meat-eating campaign.” At first, it seemed like the same familiar “Why I’m no longer vegan” story we’ve all read a hundred times. But this one was different.
 
-Both controversies demonstrated that productive movement disagreement requires:
+Toni Vernilli was renouncing veganism.2 She was joining hands with some of the most prolific meat eaters in the country– the second, third, and fourth-ranked national competitive eating champions.
 
-1. **Substantive engagement** rather than dismissal
-2. **Clear evidence gathering** about actual impacts
-3. **Maintaining relationships** despite public criticism
-4. **Acknowledging measurement challenges** in social advocacy
+But while she was telling people to eat whatever they want, her message didn’t end there. People who care about animals but still want to eat meat, she said, can offset the harm of eating meat by donating to charities that oppose factory farming. Specifically, they should go to forgetveganuary.com, use a handy calculator to determine what size monthly donation is needed to offset their meat consumption, and let the organization Farmkind distribute that donation across the most effective animal charities.
 
-The author argues these conflicts strengthen rather than weaken animal advocacy by forcing rigorous examination of assumptions underlying different strategies.
+The first thing a sympathetic meat eater will see once arriving on the site is this comparison mocking Veganuary participants for annoying their loved ones and craving meat (an earlier version mentioned “feeling bloated from plant protein.”)
+
+Next, they’re faced with an impossibly hard3 flash game testing their ability to survive 31 days as a vegan, navigating a frowning carton of oat milk through challenges like “vegan meat processed ingredients” and “iron deficiency.”
+
+Finally, they reach the donation calculator. This is meant to be a relief– there’s something I can do besides be vegan! The user inputs their weekly serving of different animal products, and the calculator spits out a recommended monthly donation sufficient to offset the suffering it causes. For an average omnivore in the UK, the donation is £17, or $23, a small fraction of what they pay into the industry for consumption.
+
+(The calculator is based on something like suffering-adjusted days, where for each animal you eat, you need to offset an equivalent amount of suffering by helping several animals. For instance, Farmland argues chickens raised according to the Better Chicken Commitment suffer around 50% less, so you need to pay for campaigns worth two BCC chickens for every chicken you eat.)
+
+The vegans react
+
+Veganuary, of course, did not take this lying down. Quoted in the Daily Mail, they likened Farmkind’s approach to “deliberately setting a fire and then donating to the fire brigade,” dismissed it as “a symbolic gesture designed to generate headlines,” and insisted that no donation can offset the harm of paying for an animal to be brought into the world and slaughtered for your consumption.
+
+Across vegan group chats and message forums, other negative reactions poured in, including from many individuals who have previously expressed skepticism of the movement’s focus on veganism.
+
+Maya Pardo (Communities Against Factory Farms):
+
+I find it offensive and misguided. Surely there is another way to raise money for animal welfare without sabotaging another campaign through infighting? It’s a publicity stunt which comes very close to encouraging hating on vegans.
+
+Alistair Stewart (former head of Plant-Based Unis):
+
+I worry that the money and people this FarmKind campaign will bring into the animal movement won’t be enough to justify a) the infighting the campaign may cause in the movement and b) the harm it may do to the public’s perception of veganism… there are probably good reasons why the pro-Palestine movement doesn’t tell people not to bother doing BDS and instead donate, and the anti-abortion movement doesn’t tell people it’s okay to get abortions as long as they donate. At worst this approach misunderstands human psychology.
+
+Most of the comments on the Mail article are criticising her for some combination of hypocrisy, bad faith, and seeking attention and money. One benefit of veganism is that even lots of anti-vegans recognise that there is some degree of logical consistency and personal/social costliness to it, which is admirable.
+
+Anonymous:
+
+Most people dislike factory farming, yet they still pay for it because it’s cheaper/more convenient. Are we really expecting those people to start spending £15 more on charity every month? Realistically, they’re more likely to use this campaign as an excuse to continue eating animals whilst also not donating.
+
+Some commenters saw the potential, but worried about execution.
+
+Billy Nicholles (Bryant Research):
+
+Instinctively, is this the sort of “infighting” that could be effective? Farmkind is targeting a very different part of society to Veganuary, and so it may be ok for them to pit themselves against each other (if it results in more donations for Farmkind without significantly damaging veganuary’s campaign). I do find it pretty cool that an article in the Daily Mail just introduced their anti-vegan readership to effective animal welfare giving…
+
+I also find the idea of paying competitive eaters to eat excessive amounts of meat uncomfortable. I get the theory of change, and if it works in getting hype/donations, then that’s good, but I’m still worried that this endorses/encourages excessive/thoughtless animal product consumption.
+
+Zuzana Sperlova (Animal Charity Evaluators):
+
+I don’t know if this specific article would do a lot of harm, intuitively I’d think not because of the audience, but that’s a guess. The majority of the article was about leaving Veganuary and veganism itself behind, and it might be that people skim it or see the headline and make a negative conclusion without getting to the mention of FarmKind and offsetting.
+
+And some were even supportive:
+
+Cam:
+
+I lowkey think on a meta level it’s good there are new strategies being tried, and also that we have to meet meat eaters where they are. Most people don’t go vegan overnight (I know I didn’t) and donating is a lot more palatable of a first step.
+
+The twist: Team Veganuary was maybe on board with the whole approach?
+
+As the angry reactions spread, the Farmkind team arrived to announce: this is not what it seems.
+
+Veganuary has been so successful establishing itself in the UK media ecosystem that every December sees predictable backlash from right wing tabloids. The Farmkind team saw in this an opportunity for a unique 4-dimensional chess move: if an anti-vegan backlash is going to happen anyway, can we grab hold of it and redirect it to help animals? As co-founder Thom Norman explained:
+
+We let Veganuary know about our intention to launch this campaign at the very start of our planning process and have kept them informed throughout. Our campaign provides them with another opportunity to put forward the benefits of diet change. We are all on good terms and there is absolutely no infighting…
+
+The goal of this campaign is to get the question of ‘should you do Veganuary’ more media attention, and shift the focus from ‘is eating animals bad’ to a focus on the question of which solution(s) to factory farming an individual will choose to participate in. In other words, we want the debate to be about whether to choose diet change or donating, rather than whether factory farming is a problem worth dealing with or not…
+
+The campaign encourages people to offset their meat this January by donating to help fix factory farming. As part of this, we hired three top competitive eaters to talk about donating to offset the animal welfare impact of their diet as they undertake one of their typical eating challenges.
+
+By working with individuals who eat meat (but who would be undertaking these meat-eating challenges anyway), we can help reduce suspicion among entrenched meat eaters that our true motive is to make them vegan. It allows us to be authentic in our message that being unwilling to change your diet doesn’t mean you can’t start helping animals.
+
+Now, this certainly changes things! Instead of a machiavellian public backstabbing, we have an even-more-machiavellian fake public backstabbing designed to trick tabloids into promoting both veganism and donating to effective charities! One EA forum commenter even likened it to Kayfabe, the preservation of fictional conflict in WWE wrestling.
+
+That, however, did not settle the matter
+
+Thom’s announcement was welcomed by critics and answered some of the most immediate questions. The new questions it raised were deeper and more productive, such as:
+
+Whose buy-in do you need to claim a campaign like this is “cooperative”– and how much does cooperation matter?
+
+How much should we be willing to harm one strategy to collect experimental data about another?
+
+How do we measure the positive and negative impacts of a campaign like this?
+
+On that note, how much good (or harm) are vegan campaigns doing for the movement currently? Do we even know?
+
+The discussion of these questions has been one of the most fruitful I’ve ever seen in the movement– but it’s been scattered across EA forum posts and private group chats. Here, I’m going to do my best to bring what I see as the most important points into one place. We’ll take it question-by-question.
+
+How much cooperation matters
+
+Alistair Stewart argued that movement unity should sometimes trump short-term utility:
+
+I think FarmKind are non-cooperatively using the visibility/success of Veganuary to advance their own (laudable, critical, neglected) goal of getting more donations into the animal movement, by publicly and explicitly undermining Veganuary and veganism / diet change in general. I worry this risks violating an important social movement principle along the lines of “don’t publicly and explicitly undermine other groups in the movement unless either that group is bad for animals or you have strong evidence that undermining them is good for animals”. I want a big diversified movement ecology featuring exploration, risk-taking, failure – but this isn’t just a risk for FarmKind, it’s a risk for Veganuary that they haven’t consented to.4
+
+One might argue that in this case, it wasn’t even enough for Veganuary to consent, because the campaign reads as an attack on veganism in general and many other stakeholders understandably felt attacked. On the other hand, Veganuary did the work to build up the platform Farmkind is jumping off here, so it is arguably between the two of them.
+
+Lewis Bollard, the patron saint of effective animal advocacy at Coefficient Giving, argued for a wide conception of stakeholders:
+
+Whether Veganuary was in on this or not, I’m seeing vegan activists reasonably interpreting this as an attack on their advocacy. I think we should have a very high bar for deliberately starting a fight in the movement, and I don’t think this meets it. I think we should also have a very high bar for attacking well-meaning people doing good in the world, whether vegans, EAs, organ donors, aid workers, or longtermists. I appreciate that attacking vegans wasn’t the campaign’s intent, but I think it was the predictable result, and certainly how the folks in the Daily Mail’s comments sections have (gleefully) interpreted it.
+
+While we’re on it, Lewis also saw the campaign as dishonest:
+
+I don’t think FarmKind intended it this way and I think the people behind it are deeply ethical people. But I think our movement is at its best when we hold ourselves to high standards and that includes not deliberately misleading people. And creating a fake “meat-eating campaign” feels like it crosses the line for me.
+
+In their defense, I believe this campaign represents the Farmkind team’s true beliefs: factory farming is bad, veganism is an ineffectual response, donating would be more consequential and we should promote that instead. If there’s anything dishonest about the campaign, it’s the claim that the competitive meat-eaters offset their consumption by donating, when in fact they were paid to act as spokespeople.
+
+Rocky Schwartz (EA NYC) made an interesting comparison to accepting donations from animal-abusing industries, and asked why this shouldn’t be subject to the same scrutiny:
+
+Wondering how recipient charities actually feel about this. I know plenty of anecdotes of animal charities refusing donations from animal-based businesses. Open question of whether that’s the right call, but I think it’s a wide enough movement norm that it’s worth evaluating FarmKind’s approach alongside it.
+
+The right amount of infighting
+
+One on hand, infighting is bad. On the other hand, every person in the movement can’t have a veto over every proposed campaign. Groups should hear out people’s concerns, but there are times to still go ahead with a controversial campaign over the objections of our friends and allies. How do we strike that balance?
+
+Alistair Stewart:
+
+I reckon the (complete) absence of infighting indicates a stagnant movement; the optimal amount of infighting is not zero.
+
+Rocky Schwartz asked if a gentler, less anti-vegan message could have achieved the same outcome:
+
+How is Farmkind distinguishing its messaging between “here is another option to consider if you care about animals” from “veganism is a bad option”? The web page certainly reads to me as the latter.
+
+C agreed:
+
+I don’t see why the campaign must explicitly disparage Veganuary.
+
+But another commenter wondered whether:
+
+Veganuary seeming against it is part of the bit. These media outlets hate Veganuary and wouldn’t cover it if they thought it was what they wanted.
+
+Farmkind would not have gotten national media coverage in the UK for saying “veganism is great but you could also donate instead.” In a world where attention is the scarcest resource, nobody would be talking about this campaign if the message had been more cooperative. The whole story is “anti-factory farming group says to forget veganism.” You might think that’s a bad story, or worry that people won’t hear the subsequent message “and you should donate instead,” but we have to admit they’re getting far more attention this way.
+
+However, more attention doesn’t mean the message will resonate with the right people, as C pointed out:
+
+It seems clear that there are many non-vegans who already donate to animal charities, but I am not convinced that these individuals are anti-vegan or anti-meat reduction to the extent that a competitive meat-eating campaign would move them to donate - it may even risk alienating them. [A research report] suggests that donors to animal charities are more likely to be vegan/vegetarian than the general population.
+
+But Thom counters with a nod to the coolest, smartest, and not to mention, most handsome research team ever to grace the animal movement:
+
+There’s some research by an amazing organization called Pax Fauna… that when it comes to the messenger for an anti-factory farming campaign, people who eat meat are much more effective messengers to other people who eat meat than vegans are. Part of this is, how can we make it clear, if you think about the audience this is targeting, that other people like you also agree that donating to help farmed animals is a good thing…
+
+When we start talking about factory farming, the script in people’s minds is that “you’ve started talking about this, now you’re going to ask me to change my diet.” And so they’ve already stopped listening to us. We used to get comments about “I’m not going to go vegan, I love bacon too much” where we weren’t talking about veganism at all. There’s a lot of people out there where to reach them, we have to make it explicitly clear that we’re not asking them to go vegan. If we had said you could do both, people wouldn’t have heard what we were saying.
+
+I can attest that Thom is representing my research findings accurately here. Also important to note: during the campaign, these spokespeople are participating in meat-centric eating challenges that all of us probably find horrifying, including eating an entire goat. But they were going to do these challenges anyway. The difference is that now, their meat-obsessed audience will hear them talk about how they’re offsetting their meat consumption with donations to Farmkind’s preferred charities. Is it weightier that meat eaters are endorsing Farmkind, or that Farmkind is endorsing meat eaters? That’s a hard question, but that is the question, not whether eating challenges that were going to happen anyway are harmful.
+
+And to foreshadow the second half of this post, we have this comment from James Özden of Social Change Lab:
+
+I hope that anyone who thinks Farmkind’s campaign is too much infighting against other animal groups was also outspoken when Animal Rising was campaigning against the RSPCA! Which was way worse in terms of the reputational damage and change it tried to inflict (to shut them down!)
+
+Measuring positive and negative impacts
+
+Ben Stevenson could have been speaking for me when he said:
+
+I’m pretty uncertain about the campaign overall, and I’m torn between thinking the pro-animal movement can and should be bigger than veganism, and feeling a little sad about messaging that risks undercutting veganism, which is an important part of my political identity.
+
+But Stien van der Ploeg, Executive Director of Animal Charity Evaluators, urged us to look beyond vibes:
+
+I think I understand the worries and discomfort people feel about this approach. But I’m not sure how fruitful it is for all of us to have a vibes-based conversation about the possible merits of this campaign. It already exists. It might end up being good, it might end up being bad. We can make it better. If you think some of the risks taken and assumptions made by FarmKind are unaddressed, let’s talk about how we can mitigate those. Let’s also figure out how we can support FarmKind do what they intend to do for animals. And most importantly, let’s make sure we learn from this campaign.
+
+Rocky Schwartz:
+
+Very curious where FarmKind is drawing the line here. Like, is there some back-of-the-envelope calculation of “likely harms of anti-vegan marketing” to “x dollars brought into animal orgs”?
+
+But Lauren Mee (Animal Advocacy Careers) doubted our ability to gather that data:
+
+I feel skeptical that it’s possible to evaluate this in a meaningful way to be able to learn from it, which I think is one of the main pros of trying something new… it would be quite hard to measure any negative effects of the campaign on societal views. Seems more likely it will be evaluated solely based on receiving X amount of donations for FarmKind and related charities.
+
+Tom Billington, monitoring and evaluation (M&E) expert from The Mission Motor, responded with slightly more optimism:
+
+I don’t agree that it’s impossible to meaningfully measure the effects, but it would be pretty difficult and require a lot of forethought and investment. Of course, every project should have robust M&E. But especially projects with significant risks of negative externalities.
+
+Stien concurred:
+
+Trying new approaches in this complex and relatively new space is great if you thoughtfully measure if it works or not. Measurement and evaluation are especially important because there are backfire risks and because this is a deeply underfunded cause area, so we cannot afford to be careless. ⁠It can be easy to falsely attribute successes and failures. So, what are some indicators that this might demand pivoting versus repeating?
+
+Evan Boyar testified to the tradeoff on a person-to-person level:
+
+I know three people who have confided they considered going vegan, but instead chose to donate to Farmkind or other effective (though not always pro-animal) charities. If persuasion is the method by which these goals we share will be achieved, then these people on the margin are especially valuable, and it is a loss to not have them as the same kind of active allies. However, there is a much larger pool of people who probably never seriously considered caring about farmed animals in the first place that Farmkind has a better chance of nudging towards care than vegan messaging.
+
+That
+
+Laure argued that Farmkind’s campaign doesn’t fit the usual spirit of offsetting:
+
+If we take a parallel with the climate movement, companies are encouraged to offset their residual emissions. After companies have done their best to reduce greenhouse gas emissions as much as possible, they can offset the inevitable emissions that cannot be entirely reduced. Similarly, in the animal movement, Global Food Partners encourages companies in Asia to purchase offsets if they cannot buy cage-free eggs in parts of their supply chain. Here, this Forget Veganuary campaign portrays offsets as a simple solution to avoid any diet change, and I think that’s a dangerous slippery slope.
+
+David Ramms agrees:
+
+When it comes to animals… if you exploit and kill an animal, you can’t offset that. You literally can’t offset what you did to that individual. The word does a lot of work.
+
+Thom mounts a defense of offsetting that outs him as a Sandcastles reader:
+
+We share the same ultimate goal, which is to end the exploitation of animals by humans. The question is, where are we in that journey? Reasonable people can disagree about this. I think, sadly, we’re probably a really long way away from it… In that context, the tools that make sense to us are quite different than if we were much closer to the end. We’re in an environment where eating meat is normal, most people think of it as the default… [our best evidence suggests] the current strategies people have developed on this aren’t having the overall societal impacts that we’d like to see. So if that’s not where we are, if we can’t solve that problem right now, can we get people to take some positive actions right now? That’s why we think offsetting makes sense. Yes, there’s no amount of money you can pay to make that pig or chicken alive again and give them a good life. But in the aggregate, you can prevent the next chicken from being stuck in a cage all her life. You can prevent the next pig from having his teeth removed without anaesthetic. You can prevent the next thousand shrimps from being killed without stunning or having their eyestalks crushed.
+
+How much downside risk does harming veganism represent, actually?
+
+An anonymous commenter argued that we have to apply the same scrutiny to veganism that we are applying to the Farmkind campaign:
+
+Much of the conversation above seems to lean on the assumption that veganism is helpful to the movement - and not just helpful, but either (i) more helpful than donating or (ii) easier to get people to do than donating (or some combination of the two). I mildly lean in the direction that we should focus less on veganism, and that suggests the upside here is larger and the downside risks smaller. That is: I don’t think this will lead to meaningfully fewer vegans, but even if it did, that seems worth it.
+
+Geoffrey Yip agreed: whatever concerns you have about the Farmkind, veganism itself hasn’t delivered great results in terms of building the animal movement.
+
+Wanna highlight there’s tons of former vegans (source: vibes) and former Veganuary participants (source: more vibes) that still have animal welfare sympathies but gave up on permanent veganism because of all the inconveniences that the campaign is highlighting. Worth tapping into that pool for donations.
+
+Joseph Ancion applauded Farmkind for following through on what many have been saying:
+
+Since the 90s, there have been texts heavily criticizing the focus on individual diet change in the movement. And yet little had been done yet to actively distance part of the pro-animal movement from that narrative. I’m impressed that FarmKind put their money where their mouth is, to see if it’s worth it.
+
+Sanurag Basu (Elevate Philanthropy) pointed out that this isn’t just a matter of welfare vs. veganism, since some of the recipients of Farmkind’s donations are working on institutional diet change:
+
+In case some people are worried that this is purely potentially beneficial for welfare reforms and not meat reduction and animal liberation on the whole: two of Farmkinds six top charities aren’t welfare oriented - Good Food Institute in Alt Proteins, and Dansk Vegetarisk Forening in Institutional Reform.
+
+One of many defenses of veganism was put forward by Alistair Steward, who argued that the difficulty of veganism is one of its selling points:
+
+I suspect successful social movements (and religions, and militaries, and other powerful orgs) expend quite a lot of resources on enforcing internal sometimes-arbitrary norms relating to personal behaviour and relationships. We are emotional beings in need of costly signals to bind us together – veganism plays an important role along those lines for the animal movement currently, whether we like it or not, and it seems like a good one to me!5
+
+Björn Ólafsson (fellow Substacker focused on animal advocacy research) questioned the negative assumptions about veganism:
+
+I haven’t seen any evidence that FarmKind’s underlying assumptions are correct: 1. that many people are more willing to donate than to go vegan and 2. that these donations won’t serve as a blockage point for further pro-animal actions like diet change. They very well might be! But I think it’d be great to dive into them.
+
+But James Özden, a seasoned researcher himself, worried this was a double standard, applying a more rigorous test to Farmkind than to veganism in general:
+
+On point 1 - The baseline to beat is 1% of the US/UK is vegan after 40 years of diet change advocacy so I don’t think the bar is that hard… On 2, I think we should be wary of “isolated demands of rigour”. Has the pro-vegan camp ever shown that going vegan isn’t a blockage point for further pro-animal actions like donating or advocacy? As there sure are a lot of non-active vegans out there! So basically just think we shouldn’t put undue burden on new things to show they are non-harmful when things that are the status quo didn’t face the same scrutiny.
+
+Björn countered that Veganuary has extensively researched their impact and found more positive evidence than most other diet change interventions. Ensuing discussion about the validity of that research was inconclusive and highlighted how damn hard it is to measure most animal advocacy interventions other than corporate welfare campaigns.
+
+Eleanor MacAree from ACE was thrilled by everyone’s newfound enthusiasm for measuring results:
+
+Excited everyone is so keen on measurement and evaluation! I am sure we are all holding ourselves to the same standards being asked of from Farmkind. The Mission Motor [who advise animal advocates on measurement & evaluation] are certainly going to be busy in 2026 😉
+
+Where does that leave us?
+
+Stein van der Ploeg:
+
+I work fulltime in animal advocacy. I don’t think that gives me an excuse to eat animals. I am vegan. I don’t think that absolves me from donating to effective charities to reduce as much harm as possible. It’s a privilege that I can do all three of these things. In this world, few people can. It seems good to encourage people to do everything they can, while also understanding that might be limited. So, let’s help people help more animals as best as they can. We need to understand better what works and work together to make that happen.
+
+I think everyone would agree with that sentiment. Problem is, people don’t agree about whether Farmkind’s campaign was aligned with it.
+
+We’d all love to be able to evaluate that. If the Farmkind campaign raises tens of millions of pounds without putting a dent in Veganuary’s enrollment numbers for 2026, it will be easy to declare a W. On the other hand, if they raise £0 and Veganuary is cancelled, that’s an L. The outcome will not be so extreme in either direction, so it is sure to hang on both difficulties in measurement and on normative questions that might reduce to first principles.
+
+How much money is a new vegan worth? In theory, if any vegan advocacy method works at all, it should be possible for the movement to identify the cost of a new vegan, i.e. how much money we need to spend per vegan created through that method. But cost is different from value, and even still, reality is more complicated. Veganuary’s strategy depends on a recognizable brand built up over more than a decade. How do we put a price tag on that?
+
+Forget Veganuary is a particularly poignant example, but the reality is that animal advocates are constantly forced to trade off between values and priorities that can’t be easily compared. And our next case shows that these choices by no means break the movement down into two simple camps.
+
+Case #2: Animal Rising says RSPCA ARE FUCKING SHILLS
+
+When I heard complaints about infighting between Animal Rising and the RSPCA, my first reaction was:
+
+Wait, the RSPCA is part of the animal movement?
+
+Which maybe tells you which side I originally identified with.
+
+Let’s rewind. The Royal Society for the Prevention of Cruelty to Animals, or as we called it in my early activist days, the Society for the Protection of Certain Animals, is mostly a dog and cat group. In that regard it is similar to the eponymous American SPCA, but from there the groups diverge.
+
+The RSPCA mainly operates as a quasi-legal body investigating and prosecuting animal cruelty cases on behalf of the British Crown. But in their spare time, the RSPCA launched a welfare certification program for factory farms. Since rebranding to “RSPCA Assured™” in 2015, this program has put the stamp of approval of the UK’s most famous animal charity on the packages of factory farmed meat, eggs, and dairy in exchange for farmers dropping some of the worst practices, such as battery cages for hens and gestation crates for pigs. (Until 2024, RSPCA also featured meat-based recipes on their website.)
+
+This earned them the ire of Animal Rising, who in 2024 announced a campaign pressuring RSPCA to drop the Assured scheme. This was not a new conflict. Groups like Direct Action Everywhere (my own alma matter) had railed against exaggerated welfare labels for years. DxE often investigated cage-free farms and protested brands like Whole Foods and Chipotle who boasted about welfare, but Animal Rising crossed a new threshold by campaigning against the organization backing the welfare scheme.
+
+In one sense, this is a more direct stab at the root of the problem. Farms and stores adhere to a designated standard because they’ll be able to sell certified products at a higher price. The RSPCA is a highly trusted authority among the British public– that’s the only reason they put their name on the scheme in the first place.
+
+The main criticism of incremental welfare reforms is that they will breed complacency among the public, undermining the urgency of veganism. If that is true, a trusted animal charity like RSPCA would be the most damaging endorsement. This would be even worse if standards weren’t actually enforced, as Animal Rising’s Dan Kidby explains:
+
+Within the world of undercover investigations it was well known that the RSPCA Assured scheme was a lie, it had been shown time and again. We set out to show that conclusively by investigating close to 40 farms and showing hundreds of legal breaches and RSPCA standards breaches across the board. The fact that the RSPCA, the nation’s most trusted animal charity, are lying to the public about the conditions of animals, rubber stamping the cruelty and promoting the consumption of factory farmed animals is enough for me to campaign against it.
+
+Ben Newman, Animal Rising’s co-director, put it more colorfully in a debate with James Özden:
+
+It’s like the British Heart Foundation putting their stamp on cigarettes or Harry Potter on a vape aimed at children.
+
+The argument in defense of the certifiers is simple enough. RSPCA assured represents the best improvement we can get at this time, as Lewis Bollard explains:
+
+The question is not whether these certifications end all cruelty, but whether they reduce it. They do: their standards prohibit some of the worst cruelties common on standard factory farms, like battery cages and gestation crates… if they go too far too fast, costs and prices will rise, and farms and consumers will defect to the biggest competitor, Red Tractor, which has much weaker standards. Overall, animal welfare would get worse, not better.
+
+(Those two links are my main sources for the rest of this post in case you’re interested enough to devour them in full.)
+
+Quantitative benefits
+
+Just as with Forget Veganuary, this debate hinges on two types of questions: one set can be quantified and measured, while the other reduces to underlying values or highly subjective interpretations of sociological evidence.
+
+In the first case, there is the matter of how many animals the Assured scheme is helping, and how much.
+
+The Animal Rising crew centered their campaign on a vast number of farm investigations– this year, they plan to release footage from every single RSPCA Assured farm, and they say each investigation shows unacceptable cruelty. Kidby:
+
+I’d be certain if we were to run those investigations again we’d find the same breaches of standards, laws, and morality.
+
+However, even Newman acknowledges some improvement:
+
+The RSPCA Assured scheme does have, of course, they’re still factory farms, but they’re better than the average factory farm.
+
+For his part, Bollard agrees that Animal Rising’s investigations show some standards being regularly violated:
+
+Many RSPCA Assured farms aren’t following the standards they claim to. [Animal Rising’s] investigations have found repeated violations of standards requiring things like care for sick animals, and I doubt that things are better when investigators aren’t around. The RSPCA acknowledged as much in sanctioning nine of the 40 farms Animal Rising investigated and kicking another three out of the scheme.
+
+And Bollard happily concedes that pressure from Animal Rising has pushed the RSPCA further still:
+
+Animal Rising’s campaign has led RSPCA Assured to announce an upgraded enforcement regime, including more unannounced audits and greater use of CCTV. This is good.
+
+But even without these improvements, Bollard believes the scheme was a net positive for animals, pointing out that none of Animal Rising’s investigations have found battery cages, gestation crates, or fast-growing “frankenchicken” breeds in Assured farms. For him, the answer is clear: “more certification, not less.”
+
+Soon AI tools will allow for certifiers to continuously monitor conditions in every certified barn. When they do, the certifiers should adopt them.
+
+Qualitative harms
+
+But even if the number of animals helped by RSPCA Assured could be quantified down to the single digits with AI monitoring tools, that leaves the other side of the equation: how much harm is the RSPCA doing by throwing their weight behind “humane” factory farms?
+
+Animal Rising believe this harm is self-evident. From Newman:
+
+It’s quite obvious. Having the Royal Society for the Protection of Animals, the world’s oldest animal charity’s logo being on an animal product, in a country that calls itself a nation of animal lovers—as part of British identity—increases consumption. And that’s reflected by the price premium. It’s reflected by McDonald’s using the RSPCA Assured pigs in its advertising.
+
+An even worse indictment, according to Newman, is that the Assured scheme specifically targets people second-guessing meat:
+
+I was looking at the RSPCA targeting, they advertise at people… who want to cut down meat. It’s people who feel, I want to eat less meat, I feel bad. Oh wait, there’s RSPCA Assured.
+
+I suspect that for many readers, that’s a step too far. RSPCA can certify if they must, but why are they advertising on behalf of factory farms to people having bad feelings about meat? This is the side of the trade-off they find themselves on: active promotion from RSPCA incentivises more farms to join the program. This might be the most direct instance of the scheme trading off a reduction in total meat for a relative increase in the number of higher- vs. lower-welfare factory farms.
+
+But Özden counters:
+
+There is an interesting study from YouGov from 2022 on people’s recognition of UK food standard labels. And the number of people who actually know what the RSPCA is, is about the same as Red Tractor... I’m just not convinced it’s like, you know, the thing that like everyone knows and holds on to.
+
+Newman’s response?
+
+Well, that’s not what my mom thinks.
+
+That might seem thin, but even Bollard says he’s sympathetic to Animal Rising on this point. However, his final counterpoint cuts deep and threw my enthusiasm for the RSPCA campaign into serious doubt:
+
+[Regarding the comparison to stamping cigarettes with the British Heart Foundation’s logo,] I don’t think it’s quite the same, but I suspect future generations may disagree. RSPCA Assured used to be called “Freedom Food,” and I think a name like that would avoid conferring the RSPCA’s hard-earned legitimacy on a controversial product.
+
+But I doubt that many people care what the big animal groups think they should eat. If they did, they’d get a clear message: [the RSPCA says] people should eat less meat, [and have recently] endured industry attacks for being anti-meat.
+
+Now that these groups face attacks from both sides, they may be tempted to just avoid controversial work for farmed animals. Nonprofits generally only get attacked for action, not inaction. Run a rescue group that refuses to take in unadoptable animals, and no one will complain. Run a shelter of last resort that euthanizes unadoptable animals, and everyone will. The easiest option would be for the big groups to dump the certification schemes.
+
+Easy, but wrong. The predictable result would be that the schemes would either cease to exist or be taken over by industry. Without the RSPCA’s support, RSPCA Assured would likely fold, its farms moving over to the weaker Red Tractor certification.
+
+The blind punching the blind
+
+One thing Kidby, Bollard, and Newman all agree on is that social movement strategy is made up more of highly subjective judgement calls than simple calculations:
+
+Dan Kidby: In the long arc of social change it is almost impossible to conclusively prove any intervention is good or bad for animals. In a highly complex world there is a long list of pros and cons, and second, third order effects etc. We each make judgements based on our own ethics and evaluation of the evidence. Any strong stance taken against any initiative should not be done in a cavalier fashion, or on intuition alone.
+
+Lewis Bollard: I studied historic social movements in college and… it’s left me wary of extracting general lessons from past movements, since I think they often fit our prior beliefs. For instance, I see in the US civil rights movement a movement that for decades clocked up small achievable incremental legal and political wins in service of several larger incremental wins (two key federal laws and several Supreme Court rulings) but that failed in its more radical goals (racial and economic equality)… But I suspect this is largely me projecting my beliefs on the past… it’s likely we’re missing important work to seed future nonlinear reforms. I just find it hard to work out what that work is.
+
+So the final question is: in the context of that uncertainty, should cooperation and minimizing infighting act as general heuristics to bound our experimentation? And if so, who gets to be included? Bollard and Özden clearly seem to think that the Red Tractor welfare scheme run by the factory farm industry itself would be a fair target, despite presumably having some standards. And I think they can understand why more radical groups clump RSPCA Assured and Red Tractor together; they simply disagree about where the line should be drawn.
+
+Kidby draws it somewhere between RSPCA and Veganuary:
+
+I deeply considered the pros and cons, and judged that there is strong enough evidence and an argument to be made that RSPCA Assured does significant harm that outweighs any good it might do. People may not agree with that position, but it would be hard to say the argument is not strong - I personally remain convinced by it.
+
+At present, there are no other animal campaigns that I would be confident enough to object to in such a way. I have a high bar for this kind of objection/conflict.
+
+I think it would be very hard to make a strong case that a campaign like Veganuary had significant downsides. I do however think that a strong case can be made that vegan dogma, as Toni mentions in the Telegraph article, has significant downsides which harms progress, but Veganuary doesn’t represent that at all - they are very mainstream and inclusive.
+
+But for Özden, targeting the RSPCA passes up countless better opportunities:
+
+In my opinion, there is no such strong or empirical evidence that the RSPCA Assured scheme is worse than the counterfactual (e.g. farms being assured by Red Tractor)… You can say “well AR had some vibes they thought it was bad,” but that becomes a very slippery slope. I don’t agree with the goals/programs of some groups in our movement based on intuition, but I shouldn’t campaign against them just due to my intuition.
+
+If I had to prioritize a list of campaigns, from the National Farmer’s Union to retailers who promote meat products, the RSPCA is fairly low on my list. I would just rather focus on other stuff… We have enough problems, the animal movement faces the rest of the world. We shouldn’t be trying to create more conflict internally, i.e., one of us targeting an ally, even though you guys may rightly point out it’s a bit of a hypocritical ally.
+
+For Newman, this misses the point. The RSPCA is in a unique position, and they are abusing it:
+
+No one gives a damn about Red Tractor. The RSPCA is the Royal Society for the Protection of Animals. It’s a household name. It’s a British institution. It’s the most trusted messenger on animals in the UK.
+
+Beautiful infighting
+
+In the end, it fell to Bollard to point out:
+
+I originally planned to write a newsletter about infighting… But there’s an irony in criticizing infighting: you risk becoming an infighter yourself. And I’m hardly an impartial observer: at Open Philanthropy we’ve funded RSPCA Assured — but not Animal Rising. It’s too easy to decry infighting when it’s the other side doing it.
+
+So, big props to Lewis for eating his own dogfood and taking a clear public stance against the Forget Veganuary campaign according to this same principle.
+
+I agree about the symmetry between these two examples. So from my safe position as a humble Substacker, associated with no organization and responsible for stewarding no resources, it falls to me to say: I think these were two outstanding examples of infighting! If our movement could handle every conflict this way, we’d win inside of a decade.
+
+Questions remain unanswered. But everyone grew stronger. The RSPCA strengthened their enforcement mechanisms; Farmkind strengthened their measurement strategy; Animal Rising built important new relationships between the institutional and radical wings of the movement; and I’m confident Veganuary will churn on largely unperturbed.
+
+For a bonus, I think everyone was surprised by how many people in the EA space were upset by Farmkind’s campaign. In fact, feelings about these two controversies in no way fell along predictable lines, once again defying simple but misleading binaries. Farmkind seems to have inspired a wave of public pro-vegan signaling within the wider EA movement, a small but important community that risks losing sight of its vegan roots. Meanwhile, Project Phoenix in the UK is considering rekindling the RSPCA campaign with a more narrow version of the demand that could achieve the best of both worlds, much as Bollard suggested.
+
+Some of the unanswered questions might be unanswerable. The rest are answered here:
+
+Vegans Are Monks. We Need a Role for Laypeople.
+
+## AIDAN KANKYOKU
+
+·
+JAN 9
+
+In this post:
+
+
+Otherwise, build on!
+
+Sandcastles
+
+If you found this essay useful, the best way to help is to share it with another activist. Also, pressing the little heart or leaving a comment helps it feel like I’m not rambling into the void.
+
+Share
+
+1
+
+I’m not even from the UK, so I can say that.
+
+2
+
+The articles carefully fail to mention whether Vernilli herself stopped being vegan, because in fact she still is, as are all the Farmkind team.
+
+3
+
+and surprisingly addictive!
+
+4
+
+A subsequent statement from Veganuary raised new doubts about just how appraised they were of Farmkind’s campaign. This could be commitment to the bit, or it could be that the campaign turned out spicier than Farmkind initially let on. We may never know.
+
+5
+
+He added a citation to back up this perspective, which I find fascinating and will discuss more tomorrow.
