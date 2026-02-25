@@ -110,6 +110,15 @@ header.site-header p {
   margin-top: 10px;
 }
 
+/* Make headings inside post summaries smaller than post titles */
+.post-summary h1,
+.post-summary h2,
+.post-summary h3 {
+  font-size: 1.1em;
+  margin: 0.5em 0 0.3em;
+  font-weight: 600;
+}
+
 /* Single post */
 article.post {
   margin-bottom: 60px;
