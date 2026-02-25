@@ -9,8 +9,14 @@
             <div id="search"></div>
         </div>
 
-        <h2 style="margin-bottom: 20px; color: #000; font-size: 1.8em;">All Essays</h2>
+        <!-- All Essays button-style section header -->
+        <div style="background: #789BF7; color: white; padding: 15px 25px; border-radius: 8px; margin-bottom: 30px; display: inline-block;">
+            <h2 style="margin: 0; color: white; font-size: 1.5em; font-weight: 600;">📚 All Essays</h2>
+        </div>
     </div>
+    {{ else }}
+    <!-- Non-home pages (like taxonomy pages) -->
+    <h1 style="margin-bottom: 30px;">{{ .Title }}</h1>
     {{ end }}
 
     <ul class="post-list">
