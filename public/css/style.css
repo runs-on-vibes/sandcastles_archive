@@ -221,3 +221,12 @@ footer {
   font-style: italic;
   color: #666;
 }
+
+/* Hide the auto-generated "Posts" section link */
+.post-item a[href="/posts/"] {
+  display: none;
+}
+
+.post-item:has(a[href="/posts/"]) {
+  display: none;
+}
