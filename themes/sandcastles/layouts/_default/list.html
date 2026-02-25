@@ -1,23 +1,25 @@
 {{ define "main" }}
 <div class="post-list-container">
     {{ if .IsHome }}
-    <div style="margin-bottom: 40px;">
-        <p>This is a searchable archive of all posts from the <a href="https://sandcastlesblog.substack.com">Sandcastles blog</a>. I created this because <strong>Substack's search is terrible</strong> - it's nearly impossible to find old posts there. This archive makes every essay discoverable through Google and preserves them in their entirety with proper formatting.</p>
+    <div style="margin-bottom: 50px;">
+        <p style="font-size: 1.1em; line-height: 1.6;">This is a searchable archive of all posts from the <a href="https://sandcastlesblog.substack.com">Sandcastles blog</a>. I created this because <strong>Substack's search is terrible</strong> - it's nearly impossible to find old posts there. This archive makes every essay discoverable through Google and preserves them in their entirety with proper formatting.</p>
 
         <!-- Search box -->
-        <div class="search-box" style="margin-top: 20px;">
+        <div class="search-box" style="margin: 30px 0 40px 0;">
             <div id="search"></div>
         </div>
+
+        <h2 style="margin-bottom: 20px; color: #000; font-size: 1.8em;">All Essays</h2>
     </div>
     {{ end }}
 
     <ul class="post-list">
         {{ range .Pages }}
         <li class="post-item">
-            <div class="post-meta">{{ .Date.Format "January 2, 2006" }}</div>
-            <h2 class="post-title">
+            <h2 class="post-title" style="margin-bottom: 8px;">
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             </h2>
+            <div class="post-meta" style="margin-bottom: 10px;">{{ .Date.Format "January 2, 2006" }}</div>
             {{ if .Summary }}
             <div class="post-summary">{{ .Summary }}</div>
             {{ end }}
