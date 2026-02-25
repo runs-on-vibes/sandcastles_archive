@@ -10,16 +10,18 @@
         </div>
 
         <!-- All Essays button-style section header -->
-        <div style="background: #789BF7; color: white; padding: 15px 25px; border-radius: 8px; margin-bottom: 30px; display: inline-block;">
-            <h2 style="margin: 0; color: white; font-size: 1.5em; font-weight: 600;">📚 All Essays</h2>
-        </div>
+        <a href="#essays" style="text-decoration: none; display: inline-block;">
+            <div style="background: #789BF7; color: white; padding: 15px 25px; border-radius: 8px; margin-bottom: 30px; display: inline-block; cursor: pointer; transition: background 0.2s;">
+                <h2 style="margin: 0; color: white; font-size: 1.5em; font-weight: 600;">📚 All Essays</h2>
+            </div>
+        </a>
     </div>
     {{ else }}
     <!-- Non-home pages (like taxonomy pages) -->
     <h1 style="margin-bottom: 30px;">{{ .Title }}</h1>
     {{ end }}
 
-    <ul class="post-list">
+    <ul class="post-list" id="essays">
         {{ range .Pages }}
         <li class="post-item">
             <h2 class="post-title" style="margin-bottom: 8px;">
