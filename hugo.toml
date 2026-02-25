@@ -1,0 +1,21 @@
+baseURL = 'https://sandcastles.kankyoku.com/'
+languageCode = 'en-us'
+title = 'Sandcastles Archive'
+theme = 'sandcastles'
+
+[params]
+  description = 'A searchable archive of essays on animal advocacy, activism, and AI by Aidan Kankyoku'
+  author = 'Aidan Kankyoku'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown
+
+# Pagination
+paginate = 20
+
+# Taxonomies
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'

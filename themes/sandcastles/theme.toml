@@ -1,0 +1,8 @@
+name = "Sandcastles"
+license = "MIT"
+description = "Custom theme for Sandcastles blog archive"
+homepage = "https://sandcastles.kankyoku.com"
+min_version = "0.140.0"
+
+[author]
+  name = "Joshu"

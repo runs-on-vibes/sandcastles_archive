@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=Source+Serif+Pro:wght@600;700&display=swap" rel="stylesheet">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
+    {{ block "head" . }}{{ end }}
+</head>
+<body>
+    <div class="container">
+        {{ block "header" . }}
+        <header class="site-header">
+            <h1><a href="{{ "/" | relURL }}" style="border: none; color: #000;">Sandcastles Archive</a></h1>
+            <p>Essays by Aidan Kankyoku on animal advocacy, activism, and AI</p>
+        </header>
+        {{ end }}
+
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+
+        {{ block "footer" . }}
+        <footer>
+            <p>© {{ now.Year }} Aidan Kankyoku | <a href="https://sandcastlesblog.substack.com">Original Substack</a> | <a href="https://kankyoku.com">Personal Site</a></p>
+            <p style="margin-top: 10px; font-size: 0.85em;">Searchable archive built by <a href="https://github.com/runs-on-vibes/sandcastles_archive">Joshu</a></p>
+        </footer>
+        {{ end }}
+    </div>
+</body>
+</html>

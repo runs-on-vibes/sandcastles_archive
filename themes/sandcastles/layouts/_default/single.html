@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article class="post">
+    <header>
+        <h1>{{ .Title }}</h1>
+        <div class="post-date">{{ .Date.Format "January 2, 2006" }}</div>
+    </header>
+
+    <div class="content">
+        {{ .Content }}
+
+        <div class="signature">
+            Build on, Sandcastles
+        </div>
+    </div>
+
+    <div style="margin-top: 60px; padding-top: 30px; border-top: 1px solid rgba(120, 155, 247, 0.3);">
+        <p><a href="{{ "/" | relURL }}">← Back to all posts</a></p>
+    </div>
+</article>
+{{ end }}
