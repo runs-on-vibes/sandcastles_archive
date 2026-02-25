@@ -223,10 +223,10 @@ footer {
 }
 
 /* Hide the auto-generated "Posts" section link */
-.post-item a[href="/posts/"] {
+.post-item a[href$="/posts/"] {
   display: none;
 }
 
-.post-item:has(a[href="/posts/"]) {
+.post-item:has(a[href$="/posts/"]) {
   display: none;
 }
