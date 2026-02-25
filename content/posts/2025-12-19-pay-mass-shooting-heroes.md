@@ -1,6 +1,7 @@
 ---
 title: "We Should Pay Mass Shooting Heroes"
 date: 2025-12-19
+substackUrl: "https://sandcastlesblog.substack.com/p/pay-mass-shooting-heroes"
 draft: false
 ---
 

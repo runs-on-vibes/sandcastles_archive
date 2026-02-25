@@ -1,6 +1,7 @@
 ---
 title: "The End of Animal Advocacy"
 date: 2025-12-26
+substackUrl: "https://sandcastlesblog.substack.com/p/ai-end-animal-advocacy"
 draft: false
 ---
 

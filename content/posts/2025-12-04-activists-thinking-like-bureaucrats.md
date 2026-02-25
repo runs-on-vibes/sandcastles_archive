@@ -1,6 +1,7 @@
 ---
 title: "When Activists Start Thinking Like Bureaucrats"
 date: 2025-12-04
+substackUrl: "https://sandcastlesblog.substack.com/p/activists-thinking-like-bureaucrats"
 draft: false
 ---
 

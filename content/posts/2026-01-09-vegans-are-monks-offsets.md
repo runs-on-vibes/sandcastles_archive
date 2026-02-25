@@ -1,6 +1,7 @@
 ---
 title: "Vegans Are Monks, and Other Analogies to Environmental Activism"
 date: 2026-01-09
+substackUrl: "https://sandcastlesblog.substack.com/p/vegans-are-monks-offsets"
 draft: false
 ---
 

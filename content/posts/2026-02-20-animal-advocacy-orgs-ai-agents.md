@@ -1,6 +1,7 @@
 ---
 title: "You are letting animals die by missing out on AI productivity"
 date: 2026-02-20
+substackUrl: "https://sandcastlesblog.substack.com/p/animal-advocacy-orgs-ai-agents"
 draft: false
 ---
 

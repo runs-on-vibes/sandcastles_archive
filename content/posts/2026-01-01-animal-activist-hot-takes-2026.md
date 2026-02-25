@@ -1,6 +1,7 @@
 ---
 title: "Animal Activist Hot Takes for 2026"
 date: 2026-01-01
+substackUrl: "https://sandcastlesblog.substack.com/p/animal-activist-hot-takes-2026"
 draft: false
 ---
 

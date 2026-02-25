@@ -1,6 +1,7 @@
 ---
 title: "The Bitter Lesson for Animal Activists"
 date: 2025-11-25
+substackUrl: "https://sandcastlesblog.substack.com/p/the-bitter-lesson-for-animal-activists"
 draft: false
 ---
 

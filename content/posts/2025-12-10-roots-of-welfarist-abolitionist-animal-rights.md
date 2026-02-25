@@ -1,6 +1,7 @@
 ---
 title: "The Roots of the Welfarist-Abolitionist Debate in Animal Rights"
 date: 2025-12-10
+substackUrl: "https://sandcastlesblog.substack.com/p/roots-of-welfarist-abolitionist-animal-rights"
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "My New Year's Resolution: Hear No Gossip"
 date: 2026-01-23
+substackUrl: "https://sandcastlesblog.substack.com/p/hear-no-gossip-activists"
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Constructive Infighting: Forget Veganuary"
 date: 2026-01-06
+substackUrl: "https://sandcastlesblog.substack.com/p/constructive-infighting-forget-veganuary"
 draft: false
 ---
 

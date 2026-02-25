@@ -1,6 +1,7 @@
 ---
 title: "Input Needed: What Should Animal Advocates Do About AI?"
 date: 2026-01-29
+substackUrl: "https://sandcastlesblog.substack.com/p/input-needed-ai-animal-advocacy"
 draft: false
 ---
 

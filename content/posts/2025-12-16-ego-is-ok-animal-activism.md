@@ -1,6 +1,7 @@
 ---
 title: "Ego Is OK in Animal Activism"
 date: 2025-12-16
+substackUrl: "https://sandcastlesblog.substack.com/p/ego-is-ok-animal-activism"
 draft: false
 ---
 

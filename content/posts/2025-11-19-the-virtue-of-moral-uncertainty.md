@@ -1,6 +1,7 @@
 ---
 title: "The Virtue of Moral Uncertainty"
 date: 2025-11-19
+substackUrl: "https://sandcastlesblog.substack.com/p/the-virtue-of-moral-uncertainty"
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "My 'Grassroots' Identity Crisis"
 date: 2025-11-11
+substackUrl: "https://sandcastlesblog.substack.com/p/my-grassroots-identity-crisis"
 draft: false
 ---
 

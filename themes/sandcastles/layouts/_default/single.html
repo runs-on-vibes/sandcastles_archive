@@ -3,6 +3,11 @@
     <header>
         <h1>{{ .Title }}</h1>
         <div class="post-date">{{ .Date.Format "January 2, 2006" }}</div>
+        {{ if .Params.substackUrl }}
+        <div style="margin-top: 10px; font-style: italic; color: #666;">
+            <a href="{{ .Params.substackUrl }}" target="_blank" rel="noopener">Originally posted on Substack</a>
+        </div>
+        {{ end }}
     </header>
 
     <div class="content">

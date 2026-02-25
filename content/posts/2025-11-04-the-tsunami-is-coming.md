@@ -1,6 +1,7 @@
 ---
 title: "The Tsunami is Coming"
 date: 2025-11-04
+substackUrl: "https://sandcastlesblog.substack.com/p/the-tsunami-is-coming"
 draft: false
 ---
 

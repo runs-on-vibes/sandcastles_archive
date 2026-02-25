@@ -1,6 +1,7 @@
 ---
 title: "The Radical Welfarists vs. the Moderate Abolitionists"
 date: 2025-11-28
+substackUrl: "https://sandcastlesblog.substack.com/p/radical-welfarist-moderate-abolitionist"
 draft: false
 ---
 
