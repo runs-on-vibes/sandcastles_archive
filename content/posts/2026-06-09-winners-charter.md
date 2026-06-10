@@ -1,5 +1,5 @@
 ---
-title: 'The Winners' Charter'
+title: "The Winners' Charter"
 date: 2026-06-09
 substackUrl: 'https://sandcastlesblog.substack.com/p/winners-charter'
 draft: false
